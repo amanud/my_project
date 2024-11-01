@@ -90,7 +90,7 @@ while True:
         Authors = point.find("a", class_="hnuser")
 
         points = point.find("span", class_="score")
-        print(points)
+
 
         Other_Information = point.find_all("a", class_=False)
 
