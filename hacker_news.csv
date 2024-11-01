@@ -1,62 +1,743 @@
-
+Hacker News
 Rank,Title,Url_Link,Points,Author,Time_post,Comments,max_upvote
-1.,New Mersenne Prime discovered (probably),https://www.mersenne.org/,213 points,sdsykes,10 hours ago,60 comments,0
-2.,Secret 3D scans in the French Supreme Court,https://cosmowenman.substack.com/p/secret-3d-scans-in-the-french-supreme,660 points,abetusk,21 hours ago,245 comments,0
-3.,Show HN: How to leverage Claude's capabilities with interactive visualization,https://github.com/anthropics/anthropic-quickstarts/tree/main/financial-data-analyst,23 points,allan666,5 hours ago,1 comment,0
-4.,Show HN: Go Plan9 Memo,https://pehringer.info/go_plan9_memo.html,262 points,pehringer,17 hours ago,85 comments,0
-5.,A Simple open-source Phone programmable with Arduino,https://www.wiphone.io,9 points,guerrilla,3 hours ago,2 comments,0
-6.,4K Gaming on Raspberry Pi [video],https://www.youtube.com/watch?v=a-ImUnRwjAo,58 points,mdp2021,10 hours ago,14 comments,0
-7.,Code that helped end Apartheid,https://www.wired.com/story/plaintext-you-can-now-see-the-code-that-ended-apartheid/,255 points,impish9208,18 hours ago,144 comments,0
-8.,JSON Patch,https://zuplo.com/blog/2024/10/10/unlocking-the-power-of-json-patch,229 points,DataOverload,17 hours ago,131 comments,0
-9.,PhotoDNA,https://en.wikipedia.org/wiki/PhotoDNA,18 points,sandwichsphinx,4 hours ago,14 comments,0
-10.,setBigTimeout,https://evanhahn.com/set-big-timeout/,159 points,cfj,13 hours ago,88 comments,0
-11.,Doctor Fukushi Masaichi and the art of preserving tattooed skin,https://www.dannydutch.com/post/doctor-fukushi-masaichi-and-the-art-of-preserving-tattooed-skin,44 points,danielmorozoff,8 hours ago,7 comments,0
-12.,"Focus on decisions, not tasks",https://technicalwriting.dev/strategy/decisions.html,143 points,kaycebasques,13 hours ago,26 comments,0
-13.,Strep A kills half a million per year; why don't we have a vaccine?,https://wellcome.org/news/strep-bacteria-kill-half-million-year-why-dont-we-have-vaccine,43 points,apsec112,5 hours ago,36 comments,0
-14.,"Running an open source app: Usage, costs and community donations",https://spliit.app/blog/spliit-by-the-stats-usage-costs-donations,200 points,scastiel,17 hours ago,118 comments,0
-15.,Cross-Process Spectre Exploitation,https://grsecurity.net/cross_process_spectre_exploitation,7 points,todsacerdoti,4 hours ago,1 comment,0
-16.,Understanding Pam and Creating a Custom Module in Python – Inside Out Insights,https://text.tchncs.de/ioi/in-todays-interconnected-world-user-authentication-plays-a-critical-role-in,17 points,moonsword,6 hours ago,2 comments,0
-17.,Getting a Japanese CERO age rating for your game costs extra per platform,https://automaton-media.com/en/news/getting-a-japanese-cero-age-rating-for-your-game-is-not-only-expensive-but-costs-extra-per-platform-giving-small-creators-a-very-hard-time/,10 points,nafnlj,5 hours ago,1 comment,0
-18.,Where the Digital Sidewalk Ends,https://www.smolways.com/post/where-the-digital-sidewalk-ends,97 points,jmward01,17 hours ago,56 comments,0
-19.,Using static websites for tiny archives,https://alexwlchan.net/2024/static-websites/,326 points,ingve,1 day ago,61 comments,0
-20.,Why conventional wisdom on health care is wrong (a primer) (2020),https://randomcriticalanalysis.com/why-conventional-wisdom-on-health-care-is-wrong-a-primer/,88 points,jeffreyrogers,19 hours ago,131 comments,0
-21.,Subvert – Collectively owned music marketplace,https://subvert.fm/,181 points,cloudfudge,15 hours ago,96 comments,0
-22.,Teaching old assert() new Tricks,https://blog.ngs-lang.org/2024/10/06/teaching-old-assert-new-tricks/,20 points,todsacerdoti,8 hours ago,6 comments,0
-23.,The feds are coming for John Deere over the right to repair,https://gizmodo.com/the-feds-are-coming-for-john-deere-over-the-right-to-repair-2000513521,432 points,rntn,15 hours ago,167 comments,0
-24.,Penguin Random House underscores copyright protection in AI rebuff,https://www.thebookseller.com/news/penguin-random-house-underscores-copyright-protection-in-ai-rebuff,27 points,marban,4 hours ago,19 comments,0
-25.,Steve's Jujutsu Tutorial,https://steveklabnik.github.io/jujutsu-tutorial/,41 points,drudru,11 hours ago,20 comments,0
-26.,Cuba's grid goes offline with blackout after a major power plant fails,https://apnews.com/article/cuba-power-outage-blackout-4ae305120a99fec17c79e7621e8dac4b,77 points,kevinday,4 hours ago,74 comments,0
-27.,The Making of Micro Machines,https://readonlymemory.com/the-making-of-micro-machines/,92 points,Tomte,16 hours ago,23 comments,0
-28.,"Ask HN: Founders, what was the major sourcing channel for your first 100 users?",item?id=41862332,134 points,jainvivek,8 hours ago,87 comments,0
-29.,My solar-powered and self-hosted website,https://dri.es/my-solar-powered-and-self-hosted-website,154 points,lightlyused,17 hours ago,47 comments,0
-30.,Distro (YC S24) is hiring a tech lead,https://www.ycombinator.com/companies/distro/jobs/XGMjSPe-tech-lead,N/A,N/A,N/A,N/A,0
-31.,Distro (YC S24) is hiring a tech lead,https://www.ycombinator.com/companies/distro/jobs/XGMjSPe-tech-lead,N/A,N/A,N/A,N/A,0
-32.,Promising new form of antibiotic that makes bacterial cells self-destruct,https://phys.org/news/2024-10-team-antibiotic-bacterial-cells-destruct.html,17 points,WaitWaitWha,4 hours ago,5 comments,0
-33.,One of Florida's most lethal python hunters,https://gardenandgun.com/feature/python-hunter/,102 points,gmays,21 hours ago,140 comments,0
-34.,Apple Passwords’ generated strong password format,https://rmondello.com/2024/10/07/apple-passwords-generated-strong-password-format/,366 points,tambourine_man,20 hours ago,235 comments,0
-35.,Show HN: What happens if you make a crossword out of Reddit r/gaming,item?id=41879754,34 points,zomh,16 hours ago,44 comments,0
-36.,Microsoft and OpenAI's close partnership shows signs of fraying,https://www.nytimes.com/2024/10/17/technology/microsoft-openai-partnership-deal.html,292 points,jhunter1016,20 hours ago,421 comments,0
-37.,Senate report: How private equity ‘gutted’ dozens of U.S. hospitals,https://www.washingtonpost.com/business/2024/10/17/private-equity-steward-hospital-bankruptcy/,18 points,diogenes_atx,5 hours ago,discuss,0
-38.,Hacker Typer,https://hackertyper.net,239 points,rvnx,1 day ago,82 comments,0
-39.,Fixed Timestep Without Interpolation,https://jakubtomsu.github.io/posts/fixed_timestep_without_interpolation/,69 points,ibobev,20 hours ago,28 comments,0
-40.,What is theoretical computer science?,https://cacm.acm.org/opinion/what-is-theoretical-computer-science/,136 points,levlaz,1 day ago,116 comments,0
-41.,Frederick Law Olmsted: His essential theory (2000),https://www.nps.gov/articles/000/frederick-law-olmsted-his-essential-theory.htm,55 points,squircle,19 hours ago,17 comments,0
-42.,Express v5,https://expressjs.com/2024/10/15/v5-release.html,126 points,saikatsg,11 hours ago,28 comments,0
-43.,Net 9.0 LINQ Performance Improvements,https://blog.ndepend.com/net-9-0-linq-performance-improvements/,192 points,olvy0,21 hours ago,186 comments,0
-44.,reftrack-plugin – plugin for GCC that tracks references to allocated objects,https://github.com/acbits/reftrack-plugin,5 points,pabs3,7 hours ago,1 comment,0
-45.,The Shroud of Turin: History and Legends,https://michaelshermer.substack.com/p/the-shroud-of-turin,49 points,royalroad,21 hours ago,120 comments,0
-46.,SOFA - Start Often Finish rArely,https://tilde.town/~dozens/sofa/,157 points,pabs3,1 day ago,101 comments,0
-47.,Smart pointers for the kernel,https://lwn.net/Articles/992055/,154 points,signa11,1 day ago,100 comments,0
-48.,Neurotech moonshot for making the general-purpose brain-machine interface happen,https://e184.substack.com/p/neurotech-moonshot,5 points,nabla9,7 hours ago,discuss,0
-49.,Microsoft BitNet: inference framework for 1-bit LLMs,https://github.com/microsoft/BitNet,124 points,galeos,22 hours ago,31 comments,0
-50.,Why does everyone run ancient Postgres versions?,https://neon.tech/blog/why-does-everyone-run-ancient-postgres-versions,228 points,davidgomes,1 day ago,400 comments,0
-51.,Life is not a story,https://psyche.co/ideas/your-life-is-not-a-story-why-narrative-thinking-holds-you-back,111 points,Tomte,1 day ago,103 comments,0
-52.,"Stark et al. vs. Patreon, Inc. Class Action Settlement",https://www.patreonsettlement.com/,48 points,pabs3,7 hours ago,16 comments,0
-53.,Ask HN: What are some good APIs to interact with large language models?,item?id=41884707,7 points,yangikan,7 hours ago,4 comments,0
-54.,DHL pioneered the sharing economy (2016),https://www.flexport.com/blog/dhl-bills-of-lading/,97 points,bpierre,1 day ago,41 comments,0
-55.,What do you visualize while programming?,https://dillonshook.com/what-do-you-visualize-while-programming/,97 points,dillonshook,17 hours ago,151 comments,0
-56.,Method Values,https://blog.fogus.me/2024/08/19/on-method-values-part-1/,30 points,geospeck,17 hours ago,2 comments,0
-57.,Grandmaster-level chess without search,https://github.com/google-deepmind/searchless_chess,349 points,lawrenceyan,1 day ago,156 comments,0
-58.,Show HN: I built a tool that helps people contact you without spam,https://hi.new,9 points,lexokoh,8 hours ago,2 comments,0
-59.,Crokinole,https://pudding.cool/2024/10/crokinole/,596 points,Tomte,1 day ago,163 comments,0
-60.,Inkscape 1.4,https://inkscape.org/news/2024/10/13/inkscape-launches-version-14-powerful-new-accessib/,513 points,s1291,1 day ago,120 comments,0
+1.,Australia/Lord_Howe is the weirdest timezone,https://ssoready.com/blog/engineering/truths-programmers-timezones/,138 points,noleary,1 hour ago,24 comments,0
+2.,1BRC Coding Challenge: Nerd Sniping the Java Community,https://www.infoq.com/presentations/1brc/,28 points,saikatsg,2 hours ago,3 comments,0
+3.,The Influence of Japanese Archaeology on the Legend of Zelda: Breath of the Wild,https://jgeekstudies.org/2024/10/27/on-the-influence-of-japanese-archaeological-heritage-on-the-legend-of-zelda-breath-of-the-wild/,86 points,zdw,6 hours ago,7 comments,0
+4.,"GitHub cuts AI deals with Google, Anthropic",https://www.bloomberg.com/news/articles/2024-10-29/microsoft-s-github-unit-cuts-ai-deals-with-google-anthropic,743 points,jbredeche,15 hours ago,535 comments,0
+5.,"OpenAI builds first chip with Broadcom and TSMC, scales back foundry ambition",https://www.reuters.com/technology/artificial-intelligence/openai-builds-first-chip-with-broadcom-tsmc-scales-back-foundry-ambition-2024-10-29/,269 points,marban,12 hours ago,172 comments,0
+6.,RebrickNet – Lego Part Detector,https://rebrickable.com/rebricknet/submit/,23 points,wonger_,2 hours ago,5 comments,0
+7.,RIP botsin.space,https://muffinlabs.com/posts/2024/10/29/10-29-rip-botsin-space/,155 points,edent,10 hours ago,81 comments,0
+8.,Tiptap (YC S23) Is Hiring a Senior Full Stack Engineer (Berlin or EU Remote),https://www.ycombinator.com/companies/tiptap/jobs/ZJhpyYA-senior-full-stack-engineer,N/A,N/A,N/A,N/A,0
+9.,The Universal Relation,https://bernsteinbear.com/blog/on-the-universal-relation/,39 points,surprisetalk,4 hours ago,1 comment,0
+10.,Jaywalking Legalized in New York City,https://www.theguardian.com/us-news/2024/oct/29/new-york-jaywalking-legal,20 points,Thomashuet,1 hour ago,10 comments,0
+11.,Using an 8K TV as a Monitor,https://daniel.lawrence.lu/blog/y2023m12d15/,382 points,ingve,15 hours ago,403 comments,0
+12.,Stupidity,https://onepercentrule.substack.com/p/stupidity-our-biggest-threat,8 points,drcwpl,2 hours ago,1 comment,0
+13.,Go library for in-process vector search and embeddings with llama.cpp,https://github.com/kelindar/search,80 points,kelindar,10 hours ago,14 comments,0
+14.,"Hobby CAD, CNC machining, and resin casting (2015)",https://lcamtuf.coredump.cx/gcnc/full/,96 points,hughgrunt,10 hours ago,47 comments,0
+15.,An Evaluation of the Remote Viewing Program: Operational Applications (1995) [pdf],https://www.cia.gov/readingroom/docs/CIA-RDP96-00791R000200180005-5.pdf,13 points,mmastrac,3 hours ago,1 comment,0
+16.,Writing in Pictures: Richard Scarry and the art of children's literature,https://yalereview.org/article/chris-ware-richard-scarry,246 points,cainxinth,18 hours ago,106 comments,0
+17.,Vector databases are the wrong abstraction,https://www.timescale.com/blog/vector-databases-are-the-wrong-abstraction/,296 points,jascha_eng,16 hours ago,52 comments,0
+18.,"The Eukaryote, the First Cell to Get Organized",https://www.quantamagazine.org/meet-the-eukaryote-the-first-cell-to-get-organized-20241028/,22 points,elsewhen,5 hours ago,6 comments,0
+19.,Launch HN: Integuru (YC W24) – Reverse-engineer internal APIs using LLMs,https://github.com/Integuru-AI/Integuru,182 points,richardzhang,18 hours ago,70 comments,0
+20.,How to get the whole planet to send abuse complaints to your best friends,https://delroth.net/posts/spoofed-mass-scan-abuse/,439 points,scd31,20 hours ago,81 comments,0
+21.,Nuclear Fusion's New Idea: An Off-the-Shelf Stellarator,https://spectrum.ieee.org/the-off-the-shelf-stellarator,72 points,mfiguiere,11 hours ago,23 comments,0
+22.,The rollercoaster king: the man behind the UK's fastest thrill-ride,https://www.theguardian.com/travel/2024/oct/24/rollercoaster-designer-john-burton-thorpe-park-hyperia,29 points,pepys,8 hours ago,1 comment,0
+23.,Show HN: Kasama – an IntelliJ plugin to keep track of your coding practices,https://plugins.jetbrains.com/plugin/24683-kasama,87 points,emhauck,15 hours ago,27 comments,0
+24.,A Performance Comparison of Modern Garbage Collectors (2021) [pdf],https://rodrigo-bruno.github.io/mentoring/77998-Carlos-Goncalves_dissertacao.pdf,43 points,mfiguiere,9 hours ago,6 comments,0
+25.,SmartTube – an advanced player for set-top boxes and TVs running Android OS,https://github.com/yuliskov/SmartTube,55 points,petemir,9 hours ago,29 comments,0
+26.,"15 Billion Miles Away, NASA's Voyager 1 Breaks Its Silence",https://scitechdaily.com/15-billion-miles-away-nasas-voyager-1-breaks-its-silence/,13 points,Stratoscope,1 hour ago,5 comments,0
+27.,The electrostatic world of insects,https://www.wired.com/story/the-secret-electrostatic-world-of-insects/,171 points,noleary,21 hours ago,49 comments,0
+28.,Scythe Works Without Borders,https://scytheworks.ca/scythe-works-without-borders/,72 points,highway-trees,14 hours ago,34 comments,0
+29.,Programming a computer for playing chess (1950) [pdf],https://vision.unipv.it/IA1/ProgrammingaComputerforPlayingChess.pdf,108 points,teleforce,1 day ago,28 comments,0
+30.,"BYD to launch its smallest EV in Australia, hinting at low-cost Seagull arrival",https://electrek.co/2024/10/29/byd-hints-launching-cheapest-seagull-ev-australia/,6 points,peutetre,1 hour ago,discuss,0
+31.,Ancient Monkey: Pwning a 17-Year-Old Version of SpiderMonkey,https://blog.pspaul.de/posts/ancient-monkey-pwning-a-17-year-old-version-of-spidermonkey/,89 points,todsacerdoti,16 hours ago,6 comments,0
+32.,More than a quarter of new code at Google is generated by AI,https://www.theverge.com/2024/10/29/24282757/google-new-code-generated-ai-q3-2024,7 points,marban,2 hours ago,1 comment,0
+33.,When are two proofs essentially the same? (2007),https://gowers.wordpress.com/2007/10/04/when-are-two-proofs-essentially-the-same/,58 points,ColinWright,16 hours ago,88 comments,0
+34.,"Digging into PlantStudio, a Bit Late",https://pketh.org/plantstudio.html,125 points,bentsai,12 hours ago,24 comments,0
+35.,"AgiBot X1, a modular humanoid robot with high dof",https://github.com/AgibotTech/agibot_x1_train,40 points,jinqueeny,12 hours ago,6 comments,0
+36.,A deep history of Halloween,https://resobscura.substack.com/p/a-very-deep-history-of-halloween,115 points,benbreen,18 hours ago,43 comments,0
+37.,Why Slight Failed: A Slight Post-Mortem,https://www.colmanhumphrey.com/posts/why-slight-failed/,144 points,KraftyOne,21 hours ago,62 comments,0
+38.,"K4 – High performance open-source transactional, durable embedded storage engine",https://github.com/guycipher/k4,13 points,alexpadula,5 hours ago,3 comments,0
+39.,Wasmer 5.0,https://wasmer.io/posts/introducing-wasmer-v5,180 points,syrusakbary,8 hours ago,50 comments,0
+40.,Slot Machines Walk into a Bar: Adventures in Quantity over Quality [video],https://www.youtube.com/watch?v=E8Lhqri8tZk,38 points,stefanpie,12 hours ago,3 comments,0
+41.,PhD student finds lost city in Mexico jungle,https://www.bbc.com/news/articles/crmznzkly3go,154 points,janpot,12 hours ago,107 comments,0
+42.,Show HN: Latex.to – LaTeX to image converter running in the browser,https://latex.to,74 points,Wdorf,17 hours ago,38 comments,0
+43.,"A collection of Halloween postcards from ""golden age"" of picture postcards",https://publicdomainreview.org/collection/halloween-postcards/,17 points,crescit_eundo,11 hours ago,1 comment,0
+44.,Five or Ten New Proofs of the Pythagorean Theorem,https://www.tandfonline.com/doi/full/10.1080/00029890.2024.2370240,31 points,jhncls,11 hours ago,9 comments,0
+45.,Ask HN: Real-time speech-to-speech translation,item?id=41941845,142 points,thangalin,1 day ago,66 comments,0
+46.,The unnecessary decline of U.S. numerical weather prediction,https://cliffmass.blogspot.com/2024/10/the-unnecessary-decline-of-us-numerical.html,183 points,carabiner,21 hours ago,106 comments,0
+47.,How I write code using Cursor,https://www.arguingwithalgorithms.com/posts/cursor-review.html,418 points,tomyedwab,1 day ago,367 comments,0
+48.,Show HN: I built an app to use a QR code as my doorbell,https://dingdongdoorbell.com,123 points,dirkc,23 hours ago,207 comments,0
+49.,Show HN: Basis – a production focused robotics framework,https://github.com/basis-robotics/basis,79 points,a_t48,21 hours ago,34 comments,0
+50.,Improving Xwayland window resizing,https://blog.vladzahorodnii.com/2024/10/28/improving-xwayland-window-resizing/,153 points,TangerineDream,1 day ago,170 comments,0
+51.,"A Venerable and Time-Tested Guide: The Chicago Manual of Style, 18th Edition",https://lareviewofbooks.org/article/a-venerable-and-time-tested-guide/,46 points,NaOH,21 hours ago,19 comments,0
+52.,The Pentaconta Crossbar and Exchange,https://www.calling315.com/pentaconta,48 points,gjvc,21 hours ago,12 comments,0
+53.,"Sci-fi books that you may never have heard of, but definitely should read",https://shepherd.com/best-books/science-fiction-that-you-should-definitely-read,241 points,bwb,1 day ago,277 comments,0
+54.,Omnivore Is Joining ElevenLabs,https://blog.omnivore.app/p/omnivore-is-joining-elevenlabs,92 points,janpio,16 hours ago,36 comments,0
+55.,Show HN: Prisma Postgres. Runs on bare metal and unikernels,https://www.prisma.io/blog/announcing-prisma-postgres-early-access,38 points,gniting,17 hours ago,17 comments,0
+56.,Show HN: Trench – Open-source analytics infrastructure,https://github.com/FrigadeHQ/trench,147 points,pancomplex,1 day ago,35 comments,0
+57.,A return to hand-written notes by learning to read and write,https://research.google/blog/a-return-to-hand-written-notes-by-learning-to-read-write/,572 points,mfiguiere,1 day ago,176 comments,0
+58.,Trying Arroost,https://edibotopic.com/blog/doing/leisure-sick/,20 points,surprisetalk,13 hours ago,1 comment,0
+59.,No More Tax-Free Lunch for Billionaires: Closing the Borrowing Loophole,https://www.taxnotes.com/special-reports/individual-income-taxation/no-more-tax-free-lunch-billionaires-closing-borrowing-loophole/2024/01/19/7j3bg,47 points,tortilla,13 hours ago,26 comments,0
+60.,Unleashing Power: Enabling Super Pages on the RPi,https://mairacanal.github.io/unleashing-power-enabling-super-pages-on-RPi/,23 points,JNRowe,21 hours ago,discuss,0
+61.,The Use of Knowledge in Society (1945) [pdf],https://www.kysq.org/docs/Hayek_45.pdf,105 points,kreyenborgi,1 day ago,34 comments,0
+62.,Dispelling Myths about Randomisation,https://www.bps.org.uk/psychologist/dispelling-myths-about-randomisation,42 points,domofutu,1 day ago,44 comments,0
+63.,Debian’s “secret” sauce,https://lwn.net/Articles/990177/,201 points,signa11,1 day ago,41 comments,0
+64.,Study: DNA corroborates “Well-man” tale from Norse saga,https://arstechnica.com/science/2024/10/ancient-dna-sheds-light-on-well-man-from-norse-saga/,109 points,LinuxBender,1 day ago,27 comments,0
+65.,"The Rip in the World: On volcanoes, earthquakes, and our attraction to disaster",https://longreads.com/2024/10/24/iceland-volcano-disaster-jonah-walters/,4 points,diodorus,11 hours ago,discuss,0
+66.,HTML Form Validation is underused,https://expressionstatement.com/html-form-validation-is-heavily-underused,362 points,stereoabuse,1 day ago,305 comments,0
+67.,How do you deploy in 10 seconds?,https://paravoce.bearblog.dev/how-do-you-deploy-in-10-seconds/,54 points,mpweiher,15 hours ago,49 comments,0
+68.,What's New in POSIX 2024,https://blog.toast.cafe/posix2024-xcu,224 points,signa11,1 day ago,209 comments,0
+69.,Buy payphones and retire,https://computer.rip/2024-10-26-buy-payphones-and-retire.html,461 points,cratermoon,1 day ago,340 comments,0
+70.,Standardizing Automotive Connectivity,https://www.tesla.com/en_CA/blog/standardizing-automotive-connectivity,157 points,hardikgupta,1 day ago,171 comments,0
+71.,High-resolution postmortem human brain MRI at 7 tesla,https://pulkit-khandelwal.github.io/exvivo-brain-upenn/,119 points,pulks,1 day ago,17 comments,0
+72.,TSMC reportedly cuts off RISC-V chip designer linked to Huawei accelerators,https://www.theregister.com/2024/10/28/tsmc_sophgo_huawei/,9 points,sandwichsphinx,6 hours ago,1 comment,0
+73.,Video game libraries lose legal appeal to emulate physical games online,https://arstechnica.com/gaming/2024/10/copyright-office-libraries-cant-share-remotely-emulated-versions-of-physical-games/,72 points,nfriedly,15 hours ago,38 comments,0
+74.,New iMac with M4,https://www.apple.com/newsroom/2024/10/apple-introduces-new-imac-supercharged-by-m4-and-apple-intelligence/,521 points,tosh,1 day ago,1078 comments,0
+75.,"Jump Trading, Virtu and the 'hidden optical fibre cable' under an Ohio field",https://www.ft.com/content/099342e4-cae8-4ac7-86bd-a3f2048065e8,58 points,throwaway2037,12 hours ago,59 comments,0
+76.,Evaluate Markdown code blocks within Vim,https://github.com/gpanders/vim-medieval,63 points,pentestercrab,1 day ago,17 comments,0
+77.,Minotaur: A SIMD-Oriented Synthesizing Superoptimizer [pdf],https://users.cs.utah.edu/~regehr/minotaur-oopsla24.pdf,55 points,luu,1 day ago,2 comments,0
+78.,State-space models can learn in-context by gradient descent,https://arxiv.org/abs/2410.11687,81 points,dsalaj,1 day ago,23 comments,0
+79.,Psychological safety vs. high standards: A misunderstood dynamic,https://www.leadingsapiens.com/psychological-safety-vs-high-standards/,118 points,sherilm,1 day ago,55 comments,0
+80.,"Lies, intrigue, lawsuits: The last battle for a 'cursed' giant emerald",https://www.washingtonpost.com/world/2024/10/25/bahia-emerald-brazil/,9 points,Thevet,8 hours ago,1 comment,0
+81.,NASA Finds Root Cause of Orion Heat Shield Charring,https://aviationweek.com/space/space-exploration/nasa-finds-root-cause-orion-heat-shield-charring,6 points,perihelions,4 hours ago,1 comment,0
+82.,"Shopify Is Winning Salesforce Clients, Stoking E-Commerce Rivalry",https://www.bloomberg.com/news/articles/2024-10-29/shopify-is-winning-salesforce-clients-stoking-e-commerce-rivalry,127 points,mobilio,18 hours ago,85 comments,0
+83.,Care Doesn't Scale,https://stevenscrawls.com/care-doesnt-scale/,428 points,surprisetalk,1 day ago,355 comments,0
+84.,We're forking Flutter,https://flutterfoundation.dev/blog/posts/we-are-forking-flutter-this-is-why/,823 points,alexzeitler,1 day ago,692 comments,0
+85.,Using Rust in non-Rust servers to improve performance,https://github.com/pretzelhammer/rust-blog/blob/master/posts/rust-in-non-rust-servers.md,391 points,amatheus,1 day ago,255 comments,0
+86.,Sway 1.10 Released,https://github.com/swaywm/sway/releases/tag/1.10,6 points,voxadam,7 hours ago,discuss,0
+87.,How not to sort by average rating (2009),https://www.evanmiller.org/how-not-to-sort-by-average-rating.html,71 points,notracks,1 day ago,23 comments,0
+88.,70% of meteorites from 3 collisions in asteroid belt within past 40M years,https://skyandtelescope.org/astronomy-news/weve-found-the-source-of-most-meteorites/,114 points,bookofjoe,1 day ago,60 comments,0
+89.,GLP-1 for Everything,https://www.science.org/content/blog-post/glp-1-everything,140 points,etiam,12 hours ago,212 comments,0
+90.,Steve Ballmer was an underrated CEO,https://danluu.com/ballmer/,355 points,greggyb,1 day ago,662 comments,0
+91.,Mill: A fast JVM build tool for Java and Scala,https://mill-build.org/,180 points,0x54MUR41,2 days ago,162 comments,0
+92.,Using reinforcement learning and $4.80 of GPU time to find the best HN post,https://openpipe.ai/blog/hacker-news-rlhf-part-1,206 points,kcorbitt,1 day ago,89 comments,0
+93.,418 I’m a teapot,https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/418,247 points,csomar,2 days ago,137 comments,0
+94.,Google CEO says more than a quarter of the company's new code is created by AI,https://www.businessinsider.com/google-earnings-q3-2024-new-code-created-by-ai-2024-10,78 points,S0y,5 hours ago,74 comments,0
+95.,Ask HN: What are you working on? (October 2024),item?id=41966114,392 points,david927,2 days ago,1102 comments,0
+96.,The Italian 'Fruit Detective' Who Investigates Centuries-Old Paintings,https://www.smithsonianmag.com/arts-culture/meet-italian-fruit-detective-who-investigates-centuries-old-paintings-clues-produce-180985227/,5 points,Brajeshwar,17 hours ago,discuss,0
+97.,Strava was used to locate the most powerful people,https://www.theguardian.com/lifeandstyle/2024/oct/29/strava-problem-fitness-app-locate-worlds-most-powerful-people,84 points,kawera,11 hours ago,69 comments,0
+98.,Scott Fitzgerald's Last Act,https://www.city-journal.org/article/scott-fitzgeralds-last-act,44 points,samclemens,1 day ago,35 comments,0
+99.,Git commit with hash `0000000`,https://github.com/JuliaAPlavin/MakieExtra.jl/commit/000000007dac9715520764e334380ae8ab26d598,13 points,Bromeo,5 hours ago,7 comments,0
+100.,New Mac Mini with M4,https://www.apple.com/newsroom/2024/10/apples-new-mac-mini-is-more-mighty-more-mini-and-built-for-apple-intelligence/,440 points,victorbjorklund,16 hours ago,669 comments,0
+101.,Ask HN: How to tell legitimate consulting interview opportuities from scams?,item?id=41983853,6 points,charliebwrites,18 hours ago,8 comments,0
+102.,Saturated fat: the making and unmaking of a scientific consensus (2022),https://journals.lww.com/co-endocrinology/fulltext/2023/02000/a_short_history_of_saturated_fat__the_making_and.10.aspx,180 points,mgh2,3 days ago,377 comments,0
+103.,Pollen: A publishing system written in Racket,https://docs.racket-lang.org/pollen/,176 points,nesarkvechnep,2 days ago,21 comments,0
+104.,Critique of Freakonomics interview with psychologist Ellen Langer,https://statmodeling.stat.columbia.edu/2024/10/28/freakonomics-does-it-again-not-in-a-good-way-jeez-these-guys-are-credulous/,93 points,nabla9,1 day ago,79 comments,0
+105.,The Event Horizon Telescope image might need a correction,https://academic.oup.com/mnras/article/534/4/3237/7660988,57 points,niemandhier,2 days ago,14 comments,0
+106.,Dramatic drop in marijuana use among U.S. youth over a decade,https://www.fau.edu/newsdesk/articles/marijuana-use-teens-study.php,110 points,geox,1 day ago,278 comments,0
+107.,Show HN: Finstruments - Financial instrument library built with Python,https://github.com/kyleloomis/finstruments,68 points,kyleloomis,2 days ago,21 comments,0
+108.,Don't implement unification by recursion,https://www.philipzucker.com/unify/,80 points,mathgenius,1 day ago,54 comments,0
+109.,Nested Loops Revisited Again (2023),https://ieeexplore.ieee.org/abstract/document/10184629/,39 points,feeblefakie,2 days ago,5 comments,0
+110.,DMCA takedown notices and counter-notices received at GitHub,https://github.com/github/dmca,104 points,LorenDB,1 day ago,29 comments,0
+111.,Python PGP proposal poses packaging puzzles,https://lwn.net/SubscriberLink/993787/0dad7bd3d8ead026/,43 points,jwilk,1 day ago,7 comments,0
+112.,Axiomatics: Mathematical thought and high modernism,https://old.maa.org/press/maa-reviews/axiomatics-mathematical-thought-and-high-modernism,88 points,hhs,2 days ago,45 comments,0
+113.,"Teri Garr, Star of 'Young Frankenstein' and 'Tootsie,' Dies at 79",https://variety.com/2024/film/news/teri-garr-dead-young-frankenstein-tootsie-1236193831/,59 points,birriel,12 hours ago,23 comments,0
+114.,James Webb Telescope discovers some quasars that seem to exist in isolation,https://scitechdaily.com/james-webb-telescope-discovers-quasars-where-they-shouldnt-exist/,166 points,wglb,3 days ago,67 comments,0
+115.,Delidded Ryzen 7 9800X3D showcases next-gen 3D V-Cache tech – OC3D,https://overclock3d.net/news/cpu_mainboard/delidded-ryzen-7-9800x3d-showcases-changes-to-next-gen-amd-3d-v-cache-tech/,19 points,rbanffy,1 day ago,discuss,0
+116.,'Alien' Signal Decoded,https://www.esa.int/ESA_Multimedia/Images/2024/10/Alien_signal_decoded,9 points,gnabgib,7 hours ago,discuss,0
+117.,"Reddit is profitable ever, with nearly 100M daily users",https://www.theverge.com/2024/10/29/24283056/reddit-earnings-user-growth-revenue-up,8 points,silly_ninja,4 hours ago,5 comments,0
+118.,Why so few Matt Levines?,https://gwern.net/matt-levine,246 points,iNic,1 day ago,134 comments,0
+119.,"Yesterday, I plugged this guy into my laptop and sequenced a genome in 24 hours",https://old.reddit.com/r/Damnthatsinteresting/comments/1gaavwt/in_the_90s_human_genome_project_cost_billions_of/,37 points,taubek,11 hours ago,8 comments,0
+120.,Using SQLite as storage for web server static content,https://clace.io/blog/sqlite/,264 points,ajayvk,2 days ago,124 comments,0
+121.,"Yesterday, I plugged this guy into my laptop and sequenced a genome in 24 hours",https://old.reddit.com/r/Damnthatsinteresting/comments/1gaavwt/in_the_90s_human_genome_project_cost_billions_of/,37 points,taubek,11 hours ago,8 comments,0
+122.,Crossing the USA by Train,https://blinry.org/coast-to-coast/,349 points,chmaynard,2 days ago,421 comments,0
+123.,"Teri Garr, offbeat comic actor of 'Young Frankenstein' and 'Tootsie,' has died",https://ktla.com/entertainment/ap-teri-garr-offbeat-comic-actress-of-young-frankenstein-and-tootsie-has-died/,19 points,bookofjoe,13 hours ago,10 comments,0
+124.,Who is the skeleton buried by a secret society under this Baltimore bar?,https://www.baltimoresun.com/2024/10/25/skeleton-secret-society-hampden-bar/,32 points,classichasclass,17 hours ago,39 comments,0
+125.,Oriental hornets can't get drunk,https://www.economist.com/science-and-technology/2024/10/23/why-oriental-hornets-cant-get-drunk,29 points,ioblomov,1 day ago,33 comments,0
+126.,Typeset: An HTML pre-proces­sor for web ty­pog­ra­phy,https://typeset.lllllllllllllllll.com/,141 points,todsacerdoti,3 days ago,57 comments,0
+127.,"In some scientific papers, words expressing uncertainty have decreased (2023)",https://www.science.org/content/article/some-scientific-papers-words-expressing-uncertainty-have-decreased,99 points,lapnect,2 days ago,75 comments,0
+128.,The Coming Technological Singularity (1993),https://mindstalk.net/vinge/vinge-sing.html,80 points,RyanShook,2 days ago,174 comments,0
+129.,NY Times gets 230 wrong again,https://www.techdirt.com/2024/10/28/ny-times-gets-230-wrong-again-misrepresenting-history-law-and-the-first-amendment/,144 points,hn_acker,1 day ago,125 comments,0
+130.,"GoLic, injects license into source code files",https://github.com/AbsaOSS/golic,28 points,kure256,1 day ago,22 comments,0
+131.,Show HN: Marmite – Zero-config static site generator,https://github.com/rochacbruno/marmite,106 points,rochacbruno,1 day ago,64 comments,0
+132.,Using less memory to look up IP addresses in Mess With DNS,https://jvns.ca/blog/2024/10/27/asn-ip-address-memory/,135 points,todsacerdoti,2 days ago,38 comments,0
+133.,The sins of the 90s: Questioning a puzzling claim about mass surveillance,https://blog.cr.yp.to/20241028-surveillance.html,238 points,ibotty,1 day ago,183 comments,0
+134.,Can you learn to be funny? (2019),https://www.abc.net.au/news/2019-11-13/can-you-learn-to-be-funny/11655036,4 points,yamrzou,7 hours ago,discuss,0
+135.,Character amnesia in China,https://globalchinapulse.net/character-amnesia-in-china/,465 points,nabla9,2 days ago,503 comments,0
+136.,Why are librarians up in arms over ebooks?,https://www.rte.ie/brainstorm/2024/0904/1468337-ireland-librarians-ebooks-issues-ebooksos-campaign/,6 points,austinallegro,8 hours ago,discuss,0
+137.,"NewPipe on Linux, Using Android_translation_layer",https://flathub.org/apps/net.newpipe.NewPipe,309 points,FuturisticGoo,2 days ago,94 comments,0
+138.,You-get: Dumb downloader that scrapes the web,https://github.com/soimort/you-get,381 points,Anon84,2 days ago,138 comments,0
+139.,So long WordPress,https://chriswiegman.com/2024/10/so-long-wordpress/,328 points,ValentineC,1 day ago,206 comments,0
+140.,How Gothic architecture became spooky,https://www.architecturaldigest.com/story/how-gothic-architecture-became-spooky,168 points,teleforce,1 day ago,112 comments,0
+141.,First scientific study of the Paris catacombs,https://www.theguardian.com/world/2024/oct/19/bodies-quarry-shafts-millions-buried-paris-catacombs,77 points,Teever,3 days ago,14 comments,0
+142.,A Chopin waltz unearthed after nearly 200 years,https://www.nytimes.com/2024/10/27/arts/music/chopin-waltz-discovery.html,435 points,perihelions,2 days ago,129 comments,0
+143.,Serious fun,https://www.scattered-thoughts.net/writing/serious-fun/,73 points,luu,2 days ago,10 comments,0
+144.,Olivetti’s Ivrea,https://medium.com/@danielstone/olivettis-ivrea-how-an-italian-tech-giant-built-the-world-s-most-progressive-company-town-557cb035c383,146 points,rbanffy,3 days ago,29 comments,0
+145.,Ibis: Federated Wikipedia alternative,"https://ibis.wiki/article/Announcing_Ibis,_the_federated_Wikipedia_Alternative",205 points,mostcallmeyt,2 days ago,146 comments,0
+146.,What is the first American graphic novel?,https://haljohnsonbooks.substack.com/p/what-is-the-first-american-graphic,61 points,paulpauper,2 days ago,26 comments,0
+147.,Bitwarden SDK relicensed from proprietary to GPLv3,https://github.com/bitwarden/sdk-internal/commit/db648d7ea85878e9cce03283694d01d878481f6b,1005 points,ferbivore,5 days ago,364 comments,0
+148.,Ask HN: What's your favorite text-based adventure game?,item?id=41973744,75 points,ranuzz,1 day ago,72 comments,0
+149.,How 'Factorio' seduced Silicon Valley and me,https://www.ft.com/content/b9e419c6-acf1-420b-8ae6-908feb52c94e,418 points,005vc16607,3 days ago,423 comments,0
+150.,Why ghosts wear clothes or white sheets,https://theconversation.com/why-ghosts-wear-clothes-or-white-sheets-instead-of-appearing-in-the-nude-241948,112 points,samizdis,3 days ago,93 comments,0
+151.,What happens when people with acute psychosis meet the voices in their heads?,https://www.theguardian.com/news/2024/oct/29/acute-psychosis-inner-voices-avatar-therapy-psychiatry,152 points,sandebert,23 hours ago,144 comments,0
+152.,How the human brain contends with the strangeness of zero,https://www.quantamagazine.org/how-the-human-brain-contends-with-the-strangeness-of-zero-20241018/,74 points,apollinaire,3 days ago,89 comments,0
+153.,Debugging my wife's alarm clock,https://ntietz.com/blog/debugging-my-wifes-alarm-clock/,133 points,zdw,2 days ago,81 comments,0
+154.,Tesla's Cybertruck is outselling almost every other EV in the US,https://www.businessinsider.com/tesla-cybertruck-outselling-almost-every-other-ev-in-us-2024-10,120 points,jdenquin,4 days ago,374 comments,0
+155.,Can a Rubik's Cube be brute-forced?,https://www.stylewarning.com/posts/brute-force-rubiks-cube/,36 points,lispybanana,1 day ago,19 comments,0
+156.,Goodhart’s law isn’t as useful as you might think (2023),https://commoncog.com/goodharts-law-not-useful/,139 points,yagizdegirmenci,3 days ago,81 comments,0
+157.,Fundamentals of Radiance Cascades,https://m4xc.dev/articles/fundamental-rc/,115 points,ibobev,3 days ago,32 comments,0
+158.,Mullenweg threatens to take over Paid Memberships Pro,https://www.therepository.email/mullenweg-threatens-to-take-over-paid-memberships-pro,48 points,healsdata,13 hours ago,5 comments,0
+159.,Global Book Banning Statistics,https://wordsrated.com/global-book-banning-statistics/,7 points,thisislife2,1 day ago,2 comments,0
+160.,Why fast-food price increases have surpassed overall inflation,https://www.cnbc.com/2024/05/04/why-fast-food-price-increases-have-surpassed-overall-inflation.html,8 points,paulpauper,13 hours ago,discuss,0
+161.,Grokking Algorithms: An illustrated guide for programmers and curious people [pdf],https://edu.anarcho-copy.org/Algorithm/grokking-algorithms-illustrated-programmers-curious.pdf,31 points,thunderbong,2 days ago,7 comments,0
+162.,Research reveals new clues to the mysteries of long Covid,https://www.ualberta.ca/en/folio/2024/10/research-reveals-new-clues-to-the-mysteries-of-long-covid.html,33 points,amichail,1 day ago,5 comments,0
+163.,It is fine not to like a piece of free software,https://neilzone.co.uk/2024/10/it-is-fine-not-to-like-a-piece-of-free-software-and-other-oft-unstated-foss-related-freedoms/,51 points,edent,1 day ago,28 comments,0
+164.,Show HN: Timeline-Based Citizen Journalism,https://goingon.org,28 points,newman8r,16 hours ago,4 comments,0
+165.,Understanding Round Robin DNS,https://blog.hyperknot.com/p/understanding-round-robin-dns,386 points,hyperknot,3 days ago,119 comments,0
+166.,Visualizing the Nucleus [video],https://www.youtube.com/watch?v=ach9JLGs2Yc,23 points,sandebert,1 day ago,3 comments,0
+167.,"Rapamycin: One Drug, Many Effects (2014)",https://www.cell.com/cell-metabolism/fulltext/S1550-4131(14)00007-2,46 points,sandwichsphinx,2 days ago,22 comments,0
+168.,Honda Is Already Testing a Manual Transmission for EVs,https://www.thedrive.com/news/honda-is-already-testing-a-manual-transmission-for-evs,19 points,PaulHoule,2 hours ago,50 comments,0
+169.,Astronomers discover complex carbon molecules in interstellar space,https://www.sciencealert.com/astronomers-discover-complex-carbon-molecules-in-interstellar-space,129 points,Brajeshwar,4 days ago,35 comments,0
+170.,Lost Maya city with temple pyramids and plazas discovered in Mexico,https://www.theguardian.com/world/2024/oct/29/lost-maya-city-valeriana-mexico-temple-pyramids-plazas,8 points,tosh,14 hours ago,discuss,0
+171.,Excel Turing Machine (2013),https://www.felienne.com/archives/2974,11 points,pabs3,1 day ago,2 comments,0
+172.,Factory farms can contaminate onions with dangerous pathogens like E. coli,https://www.ewg.org/news-insights/news/2024/10/how-factory-farms-can-contaminate-onions-dangerous-pathogens-e-coli,11 points,stareatgoats,9 hours ago,3 comments,0
+173.,School is Not Enough: Learning is a consequence of doing (2021),https://map.simonsarris.com/p/school-is-not-enough,206 points,Gooblebrai,2 days ago,130 comments,0
+174.,Monopolies Are Why We Are Restarting Three Mile Island,https://www.thebignewsletter.com/p/monopolies-are-why-we-are-restarting,6 points,doener,9 hours ago,4 comments,0
+175.,SELinux bypasses,https://klecko.github.io/posts/selinux-bypasses/,184 points,voxadam,4 days ago,53 comments,0
+176.,Adventures in algorithmic trading on the Runescape Grand Exchange,https://tristanrhodes.com/blog/Adventures-in-Algorithmic-Trading-on-the-Runescape-Grand-Exchange,185 points,partypete,4 days ago,44 comments,0
+177.,SDL-based Lua programming environment for kids similar to Codea,https://github.com/antirez/load81,115 points,kristianp,2 days ago,46 comments,0
+178.,"Write code that is easy to delete, not easy to extend (2016)",https://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to,264 points,stanulilic,2 days ago,99 comments,0
+179.,NixOS is not reproducible,https://linderud.dev/blog/nixos-is-not-reproducible/,108 points,udev4096,4 days ago,161 comments,0
+180.,Freenet: A decentralized alternative to world wide web,https://freenet.org/,177 points,udev4096,2 days ago,97 comments,0
+181.,The Prophet of Cyberspace (2016),https://www.filfre.net/2016/11/the-prophet-of-cyberspace/,71 points,cybersoyuz,2 days ago,15 comments,0
+182.,"Shenzhou-18 crew records video showcasing life, work in space [video]",https://www.youtube.com/watch?v=IMoomWmIkww,81 points,hunglee2,1 day ago,21 comments,0
+183.,On Good Software Engineers,https://candost.blog/on-good-software-engineers/,122 points,BerislavLopac,1 day ago,98 comments,0
+184.,We shrunk our Javascript monorepo git size,https://www.jonathancreamer.com/how-we-shrunk-our-git-repo-size-by-94-percent/,323 points,kwantaz,3 days ago,211 comments,0
+185.,"""More than a quarter of all new code at Google is generated by AI""",https://blog.google/inside-google/message-ceo/alphabet-earnings-q3-2024/,10 points,muglug,9 hours ago,8 comments,0
+186.,Practical Introduction to BLE GATT Reverse Engineering: Hacking the Domyos EL500 (2023),https://jcjc-dev.com/2023/03/19/reversing-domyos-el500-elliptical/,66 points,greesil,2 days ago,8 comments,0
+187.,"Open-source AI must reveal its training data, per new OSI definition",https://www.theverge.com/2024/10/28/24281820/open-source-initiative-definition-artificial-intelligence-meta-llama,34 points,belter,1 day ago,13 comments,0
+188.,Becoming physically immune to brute-force attacks (2021),https://seirdy.one/posts/2021/01/12/password-strength/,109 points,emurlin,2 days ago,68 comments,0
+189.,Deep dive: the instability of op-amps,https://lcamtuf.substack.com/p/deep-dive-the-instability-of-op-amps,114 points,lapnect,3 days ago,46 comments,0
+190.,Notes on the new Claude analysis JavaScript code execution tool,https://simonwillison.net/2024/Oct/24/claude-analysis-tool/,177 points,bstsb,4 days ago,51 comments,0
+191.,Universal optimality of Dijkstra via beyond-worst-case heaps,https://arxiv.org/abs/2311.11793,201 points,foweltschmerz,4 days ago,47 comments,0
+192.,Category Theory Illustrated: Logic (2021),https://abuseofnotation.github.io/category-theory-illustrated/05_logic/,250 points,boris_m,4 days ago,83 comments,0
+193.,TLS Callbacks (2012),https://legend.octopuslabs.io/archives/2418/2418.htm,23 points,pncnmnp,2 days ago,9 comments,0
+194.,How we didn't find product market fit,https://markobalaic.medium.com/how-we-searched-for-a-product-market-fit-with-200-000-pre-seed-funding-part-2-4d022bdb9127,39 points,withoutshape,1 day ago,2 comments,0
+195.,Millions may rely on groundwater contaminated with PFAS for drinking water,https://phys.org/news/2024-10-millions-groundwater-contaminated-pfas.html,97 points,wglb,1 day ago,48 comments,0
+196.,TI expands internal manufacturing for gallium nitride (GAN) semiconductors,https://www.ti.com/about-ti/newsroom/news-releases/2024/2024-10-24-texas-instruments-expands-internal-manufacturing-for-gallium-nitride--gan--semiconductors--quadrupling-capacity.html,63 points,sandwichsphinx,1 day ago,64 comments,0
+197.,Fraudsters steal 22 tonnes of high-value cheddar,https://www.bbc.co.uk/news/articles/cje03dq2pyyo,97 points,goodcanadian,4 days ago,90 comments,0
+198.,Insiders Stealing Instagram Usernames?,https://javier.computer/instagram,136 points,edent,22 hours ago,10 comments,0
+199.,Google accused of shadow campaigns redirecting antitrust scrutiny to Microsoft,https://arstechnica.com/tech-policy/2024/10/google-accused-of-shadow-campaigns-redirecting-antitrust-scrutiny-to-microsoft/,10 points,ivewonyoung,8 hours ago,1 comment,0
+200.,"Show HN: Mdx – Execute your Markdown code blocks, now in Go",https://github.com/dim0x69/mdx,124 points,dim0x69,4 days ago,56 comments,0
+201.,Meta's AI Abundance,https://stratechery.com/2024/metas-ai-abundance/,75 points,robenkleene,19 hours ago,25 comments,0
+202.,I discovered mysterious hidden signals on a public radio channel (2013) [video],https://media.ccc.de/v/30C3_-_5588_-_en_-_saal_g_-_201312281600_-_my_journey_into_fm-rds_-_oona_raisanen,272 points,joebig,3 days ago,67 comments,0
+203.,Fitting a Forth in 512 bytes (2021),https://compilercrim.es/bootstrap/miniforth/,89 points,whereistimbo,4 days ago,22 comments,0
+204.,Facebook Is Auto-Generating Militia Group Pages as Extremists Organize,https://www.wired.com/story/facebook-militia-organizing-election/,17 points,ttyprintk,18 hours ago,5 comments,0
+205.,Honda Is Already Testing a Manual Transmission for EVs,https://www.thedrive.com/news/honda-is-already-testing-a-manual-transmission-for-evs,20 points,PaulHoule,2 hours ago,54 comments,0
+206.,The Mindlessness of Ostensibly Thoughtful Action (1978) [pdf],https://jamesclear.com/wp-content/uploads/2015/03/copy-machine-study-ellen-langer.pdf,51 points,canthandle,3 days ago,7 comments,0
+207.,RP FLIP escapes wrecker's claws,https://gcaptain.com/saving-rv-flip-from-the-wreckers-clawsand-its-story-is-mind-blowing/,114 points,tomohawk,2 days ago,48 comments,0
+208.,Robert Downey Jr. Refuses to Let Hollywood Create His AI Digital Replica,https://variety.com/2024/film/news/robert-downey-jr-bands-hollywood-digital-replace-lawsuit-1236192374/,22 points,thunderbong,1 day ago,20 comments,0
+209.,10 Years of HexaPDF,https://gettalong.org/blog/2024/10-years-of-hexapdf.html,55 points,thunderbong,3 days ago,31 comments,0
+210.,Weight-loss surgery down 25 percent as anti-obesity drug use soars,https://news.harvard.edu/gazette/story/2024/10/weight-loss-surgery-down-25-percent-as-anti-obesity-drug-use-soars/,10 points,paulpauper,9 hours ago,1 comment,0
+211.,Unsafe Rust is harder than C,https://chadaustin.me/2024/10/intrusive-linked-list-in-rust/,117 points,todsacerdoti,4 days ago,125 comments,0
+212.,Why are ML compilers so hard? (2021),https://petewarden.com/2021/12/24/why-are-ml-compilers-so-hard/,39 points,_feynon,1 day ago,4 comments,0
+213.,ZombAIs: From Prompt Injection to C2 with Claude Computer Use,https://embracethered.com/blog/posts/2024/claude-computer-use-c2-the-zombais-are-coming/,161 points,macOSCryptoAI,3 days ago,84 comments,0
+214.,"OutRun: Open-source, privacy oriented, outdoor fitness tracker",https://outrun.tadris.de/,58 points,0x000042,19 hours ago,20 comments,0
+215.,DMA: Litigation Against Apple,https://fsfe.org/activities/apple-litigation/,27 points,yazzku,1 day ago,2 comments,0
+216.,Family medicine is in decline,https://thewalrus.ca/your-doctor-wont-see-you/,87 points,mooreds,1 day ago,204 comments,0
+217.,Detecting when LLMs are uncertain,https://www.thariq.io/blog/entropix/,281 points,trq_,4 days ago,166 comments,0
+218.,New tool bypasses Google Chrome's new cookie encryption system,https://www.bleepingcomputer.com/news/security/new-tool-bypasses-google-chromes-new-cookie-encryption-system/,4 points,josephcsible,12 hours ago,1 comment,0
+219.,Quantized Llama models with increased speed and a reduced memory footprint,https://ai.meta.com/blog/meta-llama-quantized-lightweight-models/?_fb_noscript=1,505 points,egnehots,5 days ago,120 comments,0
+220.,"In the US, regenerative farming practices require unlearning past advice",https://investigatemidwest.org/2024/10/11/regenerative-farming-practices-require-unlearning-past-advice/,296 points,PaulHoule,4 days ago,160 comments,0
+221.,AI-powered transcription tool used in hospitals invents things no one ever said,https://www.scrippsnews.com/us-news/researchers-say-an-ai-powered-transcription-tool-used-in-hospitals-invents-things-no-one-ever-said,22 points,croes,1 day ago,1 comment,0
+222.,Minor degree of hypohydration adversely influences cognition,https://pubmed.ncbi.nlm.nih.gov/27510536/,14 points,domofutu,1 day ago,2 comments,0
+223.,Platform Strategy and Its Discontents,https://infrequently.org/2024/10/platforms-are-competitions/,105 points,wmanley,2 days ago,66 comments,0
+224.,AMD Ryzen 7 9800X3D has been listed by first retailers in Europe,https://videocardz.com/newz/amd-ryzen-7-9800x3d-has-been-listed-by-first-retailers-in-europe,4 points,doener,12 hours ago,discuss,0
+225.,"Building a Habit: Have a Reason, Stay Consistent",https://diamantinoalmeida.com/building-a-habit-have-a-reason-stay-consistent/,13 points,MitiaHiers,1 day ago,discuss,0
+226.,"The MIPS ThinkPad, kind of (2022)",http://oldvcr.blogspot.com/2022/09/the-mips-thinkpad-kind-of.html,89 points,rbanffy,2 days ago,27 comments,0
+227.,"Company named ""><SCRIPT SRC=HTTPS://MJT.XSS.HT> LTD"" forced to change it (2020)",https://www.theguardian.com/uk-news/2020/nov/06/companies-house-forces-business-name-change-to-prevent-security-risk,567 points,jakey_bakey,4 days ago,250 comments,0
+228.,New Windows driver signature bypass allows kernel rootkit installs,https://www.bleepingcomputer.com/news/security/new-windows-driver-signature-bypass-allows-kernel-rootkit-installs/,302 points,sandwichsphinx,3 days ago,230 comments,0
+229.,How can this 6 axis robot have a static accuracy of 0.05 mm? (2021) [video],https://www.youtube.com/watch?v=SioCwvR_PYY,273 points,unclefuzzy,4 days ago,80 comments,0
+230.,Writes and Write-Nots,https://paulgraham.com/writes.html,190 points,baxtr,2 days ago,153 comments,0
+231.,Amazon Leaks New Mac Mini with M4 and M4 Pro Chip,https://www.macrumors.com/2024/10/28/amazon-leaks-new-mac-mini/,27 points,mfiguiere,1 day ago,3 comments,0
+232.,All political ads running on Google in the US,https://adstransparency.google.com/political?region=US&topic=political,391 points,cellis,4 days ago,332 comments,0
+233.,Beware of Poison in the Source,https://danb.me/blog/poisoned-source/,7 points,ssddanbrown,11 hours ago,discuss,0
+234.,"Up to $41B in World Bank climate finance unaccounted for, Oxfam finds",https://www.oxfam.org/en/press-releases/41-billion-world-bank-climate-finance-unaccounted-oxfam-finds,338 points,wallbrownf,2 days ago,137 comments,0
+235.,The Great Exhibition unveils the only office roller coaster in Stockholm,https://www.creativeboom.com/news/worlds-first-office-roller-coaster-launches-in-stockholm/,26 points,microflash,1 day ago,8 comments,0
+236.,NASA's oldest active astronaut is also one of the most curious humans,https://arstechnica.com/space/2024/10/nasa-astronaut-don-pettit-is-a-giant-nerd-and-were-all-luckier-for-it/,17 points,andyjohnson0,22 hours ago,7 comments,0
+237.,Waymo closes $5.6B investment round,https://waymo.com/blog/2024/10/investing-to-bring-the-waymo-driver-to-more-riders/,87 points,ra7,4 days ago,210 comments,0
+238.,"Amphion: An open-source audio, music, and speech generation toolkit",https://github.com/open-mmlab/Amphion,90 points,lapnect,2 days ago,2 comments,0
+239.,We can now fix McDonald's ice cream machines,https://www.ifixit.com/News/102368/victory-is-sweet-we-can-now-fix-mcdonalds-ice-cream-machines,1102 points,LorenDB,4 days ago,307 comments,0
+240.,Nothing left to solve,https://lmnt.me/blog/nothing-left-to-solve.html,64 points,robenkleene,2 days ago,52 comments,0
+241.,Ask HN: Can calculus be taught without differentiating or integrating by hand?,item?id=41978235,37 points,amichail,1 day ago,94 comments,0
+242.,Ask HN: Local RAG with private knowledge base,item?id=41968366,13 points,zephodb,2 days ago,2 comments,0
+243.,19th-century photography technique employed in novel data storage method,https://spectrum.ieee.org/clark-johnson-profile,74 points,abe94,4 days ago,39 comments,0
+244.,I've never used cohost but I miss it,https://plume.pink/blog-cohost/,57 points,ZacnyLos,2 days ago,28 comments,0
+245.,Graphene and chitosan sponge 10x more efficient at removing gold from e-waste,https://phys.org/news/2024-10-graphene-oxide-chitosan-sponge-ten.html,3 points,thebeardisred,13 hours ago,discuss,0
+246.,ATL: A layer to run Android apps on Linux,https://gitlab.com/android_translation_layer/android_translation_layer/-/blob/master/README.md,216 points,AbuAssar,2 days ago,32 comments,0
+247.,Jaywalking Legalized in New York City,https://abc7ny.com/post/jaywalking-legalized-new-york-city-after-mayor-adams-declines-sign-veto-legislation-30-days/15486519/,9 points,philip1209,4 hours ago,discuss,0
+248.,Electro-agriculture: Revolutionizing farming for a sustainable future,https://www.cell.com/joule/fulltext/S2542-4351(24)00429-X,93 points,foota,4 days ago,38 comments,0
+249.,"LibNSFB – Framebuffer (bitmap on screen) abstraction library, written in C",https://www.netsurf-browser.org/projects/libnsfb/,71 points,peter_d_sherman,4 days ago,27 comments,0
+250.,The Fediverse is getting its own TikTok competitor called Loops,https://techcrunch.com/2024/10/25/the-fediverse-is-getting-its-own-tiktok-competitor-called-loops/,114 points,ZacnyLos,3 days ago,102 comments,0
+251.,M4 Mini vs. M2 Mini,https://appleinsider.com/inside/mac-mini/vs/m4-mac-mini-vs-m2-mac-mini-compared-leaner-and-meaner,6 points,ngcc_hk,4 hours ago,2 comments,0
+252.,We Can Terraform the American West,https://caseyhandmer.wordpress.com/2024/10/26/we-can-terraform-the-american-west/,246 points,jasondavies,4 days ago,314 comments,0
+253.,Using Survival Analysis to estimate product lifetime,https://jumpdata.co.uk/using-survival-analysis-to-estimate-product-lifetime/,5 points,sebg,1 day ago,discuss,0
+254.,People Are Sick and Tired of All Their Subscriptions,https://www.wsj.com/articles/people-are-sick-and-tired-of-all-their-subscriptions-cbee7e03,75 points,zeroonetwothree,2 days ago,42 comments,0
+255.,Apache Doris: open-source data warehouse for real time data analytics,https://doris.apache.org/,23 points,tosh,3 days ago,2 comments,0
+256.,Fedora Linux 41,https://fedoramagazine.org/announcing-fedora-linux-41/,29 points,HieronymusBosch,17 hours ago,7 comments,0
+257.,OpenAI will start using AMD chips and could make its own AI hardware in 2026,https://www.theverge.com/2024/10/29/24282843/openai-custom-hardware-amd-nvidia-ai-chips,8 points,djoldman,11 hours ago,discuss,0
+258.,The unreleased Commodore HHC-4's identity,http://oldvcr.blogspot.com/2024/10/the-unreleased-commodore-hhc-4s-secret.html,27 points,zdw,2 days ago,2 comments,0
+259.,A deep dive into Linux's new mseal syscall,https://blog.trailofbits.com/2024/10/25/a-deep-dive-into-linuxs-new-mseal-syscall/,249 points,todsacerdoti,4 days ago,54 comments,0
+260.,Lady Baker and the Source of the Nile,https://harkness.substack.com/p/lady-baker-and-the-source-of-the,3 points,Caiero,1 day ago,discuss,0
+261.,Generative AI could generate tons of e-waste by decade's end,https://techxplore.com/news/2024-10-generative-ai-generate-millions-tons.html,34 points,bikenaga,10 hours ago,36 comments,0
+262.,Show HN: TypeSchema – A JSON specification to describe data models,https://typeschema.org/,116 points,k42b3,5 days ago,49 comments,0
+263.,Py4web – Evolution of the Web2py Framework,https://py4web.com/,6 points,gjvc,2 days ago,discuss,0
+264.,Leaving Wordpress.org: Here's Why and What It Means for Paid Memberships Pro,https://www.paidmembershipspro.com/leaving-wordpress-org/,11 points,ceejayoz,12 hours ago,2 comments,0
+265.,Oakland's Psychedelic Mushroom Church,https://oaklandside.org/2022/06/10/zide-door-psycedelic-magic-mushroom-church-oakland/,25 points,agnosticmantis,3 days ago,3 comments,0
+266.,Ask HN: What ist your AdBlock strategy?,item?id=41970318,11 points,laserstrahl,1 day ago,22 comments,0
+267.,"Before you buy a domain name, first check to see if it's haunted",https://www.bryanbraun.com/2024/10/25/before-you-buy-a-domain-name-first-check-to-see-if-its-haunted/,922 points,bryanbraun,4 days ago,188 comments,0
+268.,Battleships Logic Puzzle,https://lukerissacher.com/battleships,251 points,QuadrupleA,4 days ago,82 comments,0
+269.,Are rotary mixers better?,https://djmag.com/features/are-rotary-mixers-actually-better,32 points,daledavies,3 days ago,66 comments,0
+270.,NotebookLlama: An open source version of NotebookLM,https://github.com/meta-llama/llama-recipes/tree/main/recipes/quickstart/NotebookLlama,312 points,bibinmohan,2 days ago,70 comments,0
+271.,Quit Social Media (2016),https://calnewport.com/quit-social-media/,217 points,skadamat,5 days ago,260 comments,0
+272.,"Man survives monthlong ordeal in US national park on mushrooms, berries andwater",https://www.theguardian.com/us-news/2024/oct/28/man-missing-lost-park-survives,6 points,bookofjoe,5 hours ago,discuss,0
+273.,Show HN: Cinematic Battle Simulation in Unreal Engine [video],https://www.youtube.com/watch?v=bXeoHI8S0AM,7 points,Morgoth421,20 hours ago,discuss,0
+274.,Post World War II Food,https://www.nps.gov/articles/post-wwii-food.htm,282 points,paulpauper,5 days ago,299 comments,0
+275.,"Ask HN: There is an open-source alternative to almost any SaaS, what do you use?",item?id=41979332,15 points,gitroom,1 day ago,12 comments,0
+276.,"Plastic chemical phthalate causes DNA breakage, chromosome defects, study finds",https://medicalxpress.com/news/2024-10-plastic-chemical-phthalate-dna-breakage.html,261 points,Jimmc414,4 days ago,183 comments,0
+277.,"""Bush hid the facts"" bug",https://en.wikipedia.org/wiki/Bush_hid_the_facts,38 points,aduffy,1 day ago,discuss,0
+278.,OmniParser for Pure Vision Based GUI Agent,https://microsoft.github.io/OmniParser/,144 points,fzliu,4 days ago,34 comments,0
+279.,NASA narrows Artemis III landing target list to nine,https://www.theregister.com/2024/10/29/nasa_narrows_artemis_iii_landing/,3 points,rbanffy,17 hours ago,discuss,0
+280.,"Identifying factors contributing to ""bad days"" for software developers",https://arxiv.org/abs/2410.18379,83 points,andrewdutton,3 days ago,61 comments,0
+281.,The weak science behind psychedelics,https://www.theatlantic.com/ideas/archive/2024/10/psychedelics-medicine-science/680286/,96 points,Hooke,3 days ago,96 comments,0
+282.,"Crux, a Precise Verifier for Rust and Other Languages",https://arxiv.org/abs/2410.18280,3 points,belter,1 day ago,discuss,0
+283.,"Tesla Using 'Full Self-Driving' Hits Deer Without Slowing, Doesn't Stop",https://jalopnik.com/tesla-using-full-self-driving-hits-deer-without-slowing-1851683918,25 points,harambae,10 hours ago,1 comment,0
+284.,JetKVM: Tiny IP KVM That's Not an Apple Watch,https://www.jeffgeerling.com/blog/2024/jetkvm-tiny-ip-kvm-thats-not-apple-watch,49 points,alphabettsy,3 days ago,14 comments,0
+285.,"Japan's Mount Fuji has yet to see snow this season, breaking a 130-year record",https://www.cnn.com/travel/japan-mount-fuji-snow-climate-2024-intl-hnk/index.html,13 points,teleforce,8 hours ago,discuss,0
+286.,Data viz project that maps all earthquakes by magnitude,https://seismic-explorer.concord.org,85 points,therabbithole,5 days ago,18 comments,0
+287.,Mem0 Browser Extension,https://twitter.com/taranjeetio/status/1851278999881990409,4 points,anshulbhide,4 hours ago,discuss,0
+288.,Iceberg A-68: The story of how a mega-berg transformed the ocean,https://www.bbc.com/future/article/20241025-how-mega-icebergs-change-the-ocean,5 points,otoolep,17 hours ago,discuss,0
+289.,Security research on Private Cloud Compute,https://security.apple.com/blog/pcc-security-research/,302 points,todsacerdoti,5 days ago,118 comments,0
+290.,"Chiplet Marketplace, Sustainability Top Discussions at OCP Summit",https://www.eetimes.com/chiplet-marketplace-sustainability-top-discussions-at-ocp-summit/,9 points,JoachimS,2 days ago,discuss,0
+291.,How to configure an Ethernet connection between iPad and RaspberryPi with USB-C,https://www.andreagrandi.it/posts/howto-configure-ethernet-connection-ipad-raspberrypi-usbc/,94 points,andreagrandi,3 days ago,35 comments,0
+292.,Agents Thinking Fast and Slow: A Talker-Reasoner Architecture,https://arxiv.org/abs/2410.08328,8 points,benocodes,2 days ago,discuss,0
+293.,Why did you write a new RTOS for CHERIoT?,https://cheriot.org/rtos/philosophy/history/2024/10/24/why-new-rtos.html,58 points,todsacerdoti,5 days ago,17 comments,0
+294.,"Moonshine, the new state of the art for speech to text",https://petewarden.com/2024/10/21/introducing-moonshine-the-new-state-of-the-art-for-speech-to-text/,169 points,freediver,3 days ago,35 comments,0
+295.,There is no such thing as a global method (in Ruby),https://zverok.space/blog/2024-10-21-global_functions.html,4 points,mpweiher,2 days ago,discuss,0
+296.,Rescue Party (1946),https://www.baen.com/Chapters/0743498747/0743498747___1.htm,59 points,bookofjoe,1 day ago,24 comments,0
+297.,Microsoft says Google running 'shadow campaigns' in Europe,https://www.cnbc.com/2024/10/28/microsoft-calls-out-google-for-shadow-campaigns-in-europe-in-cloud.html,30 points,belter,1 day ago,4 comments,0
+298.,A comparison of Rust's borrow checker to the one in C#,https://em-tg.github.io/csborrow/,28 points,SkiFire13,2 days ago,7 comments,0
+299.,The Circular Electronics Design Guide,https://www.ifixit.com/News/101938/introducing-the-circular-electronics-design-guide,31 points,sandwichsphinx,1 day ago,9 comments,0
+300.,Hacking the T2S+ Out of Fear: Get Lock-In Thermography for Free,https://dmytroengineering.com/content/projects/t2s-plus-thermal-camera-hacking,7 points,Luc,1 day ago,discuss,0
+301.,Hacking the T2S+ Out of Fear: Get Lock-In Thermography for Free,https://dmytroengineering.com/content/projects/t2s-plus-thermal-camera-hacking,7 points,Luc,1 day ago,discuss,0
+302.,Harvard Study Links Popular Plastic Ingredient to DNA Damage,https://scitechdaily.com/harvard-study-links-popular-plastic-ingredient-to-dna-damage/,7 points,mgh2,5 hours ago,1 comment,0
+303.,Swift – A great language strangled by governance?,https://blog.jacobstechtavern.com/p/apple-is-killing-swift,97 points,Hashex129542,1 day ago,96 comments,0
+304.,Why Safety Profiles Failed,https://www.circle-lang.org/draft-profiles.html,236 points,pjmlp,5 days ago,223 comments,0
+305.,Laion wins copyright infringement lawsuit in German court,https://www.technollama.co.uk/laion-wins-copyright-infringement-lawsuit-in-german-court,11 points,pcaharrier,1 day ago,discuss,0
+306.,Federal investigators probe Tether,https://www.wsj.com/finance/currencies/federal-investigators-probe-cryptocurrency-firm-tether-a13804e5,116 points,dcgudeman,4 days ago,117 comments,0
+307.,"OpenFeature – a vendor-agnostic, community-driven API for feature flagging",https://github.com/open-feature,194 points,gjvc,5 days ago,64 comments,0
+308.,A Bicycle for the Mind – Prologue,https://technicshistory.com/2024/09/08/a-bicycle-for-the-mind-prologue/,13 points,dotcoma,2 days ago,2 comments,0
+309.,The brain's waste clearing lymphatic system shown in people for first time,https://www.nih.gov/news-events/nih-research-matters/brain-waste-clearance-system-shown-people-first-time,314 points,SubiculumCode,5 days ago,105 comments,0
+310.,Why those particular integer multiplies?,https://fgiesen.wordpress.com/2024/10/26/why-those-particular-integer-multiplies/,73 points,luu,4 days ago,36 comments,0
+311.,Show HN: A text-only blog engine using Cloudflare workers and KV store,https://github.com/jonfraser/simpletext,102 points,jonutah,3 days ago,49 comments,0
+312.,Redact-a-Chat,https://redact-a-chat.com/#/,41 points,neonate,4 days ago,20 comments,0
+313.,Why it's time to retire CRUD,https://xtdb.com/blog/retire-crud,6 points,TheFreim,2 days ago,4 comments,0
+314.,California is torn between clashing Anglo traditions?,https://unherd.com/2024/10/californias-woes-were-born-in-england/,72 points,youcould,3 days ago,97 comments,0
+315.,Small Is Beautiful,https://en.wikipedia.org/wiki/Small_Is_Beautiful,6 points,thunderbong,5 hours ago,1 comment,0
+316.,Encore.ts: A New Type of Framework,https://encore.dev/blog/a-new-type-of-framework,6 points,bx376,2 days ago,1 comment,0
+317.,Zigler: Zig NIFs in Elixir,https://github.com/E-xyza/zigler,229 points,ksec,5 days ago,89 comments,0
+318.,The Lion of St. Mark's Square in Venice Is Chinese,https://archaeologymag.com/2024/09/lion-of-st-marks-square-in-venice-is-chinese/,214 points,pseudolus,5 days ago,99 comments,0
+319.,Ion engines could take us to the solar gravitational lens in less than 13 years,https://phys.org/news/2024-10-ion-solar-gravitational-lens-years.html,94 points,rbanffy,3 days ago,79 comments,0
+320.,OSI readies controversial open-source AI definition,https://lwn.net/SubscriberLink/995159/a37fb9817a00ebcb/,117 points,rettichschnidi,4 days ago,137 comments,0
+321.,Amusement park built for accessibility and free for disabled,https://morganswonderland.org/,19 points,tomcam,23 hours ago,2 comments,0
+322.,Should JavaScript be split into two languages?,https://devclass.com/2024/10/22/should-javascript-be-split-into-two-languages-new-google-driven-proposal-divides-opinion/,138 points,em-bee,3 days ago,311 comments,0
+323.,Brush – A new compatible Gaussian splatting engine,https://github.com/ArthurBrussee/brush,178 points,Tycho87,5 days ago,58 comments,0
+324.,An indie studio created a game based on Stanislaw Lem's novel,https://invinciblethegame.com/?hn,130 points,mgl,1 day ago,60 comments,0
+325.,Jeff Bezos killed Washington Post endorsement of Kamala Harris,https://www.cnbc.com/2024/10/25/jeff-bezos-killed-washington-post-endorsement-of-kamala-harris-.html,817 points,donsupreme,4 days ago,957 comments,0
+326.,'Open banking' rules will put your financial data back where it belongs,https://www.theregister.com/2024/10/27/open_banking_rules_issued_requiring/,37 points,rntn,2 days ago,4 comments,0
+327.,"Show HN: Ezcrypt – A file encryption tool (simple, strong, public domain)",https://codeberg.org/ezcrypt/ezcrypt,26 points,ezcrypt,2 days ago,34 comments,0
+328.,Fast Development with Zed and Dev Containers,https://alessandro-annini.medium.com/lightning-fast-development-with-zed-and-dev-containers-11df1135b635,48 points,sunrising,5 days ago,10 comments,0
+329.,Long wave radio fans mourn fading frequencies (2023),https://www.bbc.com/news/business-66644709,78 points,austinallegro,3 days ago,43 comments,0
+330.,The Surprising Story Behind America's Most Popular 'I Voted' Sticker,https://www.aarp.org/politics-society/history/info-2024/i-voted-sticker.html,11 points,giancarlostoro,1 day ago,1 comment,0
+331.,Are you sure you want to use MMAP in your database management system? (2022),https://db.cs.cmu.edu/mmap-cidr2022/,14 points,tosh,3 days ago,2 comments,0
+332.,Boeing 787s must be reset every 51 days or 'misleading data' is shown (2020),https://www.theregister.com/2020/04/02/boeing_787_power_cycle_51_days_stale_data/,205 points,jakey_bakey,5 days ago,223 comments,0
+333.,Show HN: PreCog AI – Automatic AI Model Selection for Any Task,https://precog.ubik.studio/,60 points,ieuanking,5 days ago,18 comments,0
+334.,Computer Scientists Establish the Best Way to Traverse a Graph,https://www.quantamagazine.org/computer-scientists-establish-the-best-way-to-traverse-a-graph-20241025/,38 points,sohkamyung,4 days ago,1 comment,0
+335.,Max Levchin: To Build a Meritocracy,https://max.levch.in/post/765636918645080064/to-build-a-meritocracy,9 points,kaonwarb,14 hours ago,2 comments,0
+336.,"Age-related changes in gait, balance, and strength parameters",https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0310764,24 points,domofutu,2 days ago,10 comments,0
+337.,Open-Source Obsidian Alternative,https://github.com/Acreom/app,32 points,devslovecoffee,4 days ago,6 comments,0
+338.,Researcher finds lost city in Mexico jungle by accident,https://www.bbc.com/news/articles/crmznzkly3go,10 points,wood_spirit,1 day ago,discuss,0
+339.,BYD EV teardown in Japan reveals secrets to its affordability,https://insideevs.com/news/738606/byd-ev-teardown-impresses-japan/,154 points,segasaturn,5 days ago,283 comments,0
+340.,How do you find side projects?,item?id=41979007,7 points,annaletitgo,1 day ago,15 comments,0
+341.,EU Digital Markets Act: Litigation Against Apple,https://fsfe.org/activities/apple-litigation/,21 points,Symbiote,1 day ago,7 comments,0
+342.,More than a quarter of all new code at Google is generated by AI,https://twitter.com/AndrewCurran_/status/1851374530998256126,20 points,bgrainger,8 hours ago,30 comments,0
+343.,Dynamic Models of Gentrification,https://arxiv.org/abs/2410.18004,43 points,Anon84,5 days ago,32 comments,0
+344.,Silicon Valley's Elite Pour Money into Blotting Out the Sun,https://www.bloomberg.com/news/features/2024-10-25/silicon-valley-s-elite-back-controversial-research-into-blocking-the-sun,11 points,viewtransform,1 day ago,6 comments,0
+345.,Free tiny but useful web products,https://www.justbuildthings.com/,40 points,solpuxk,4 days ago,11 comments,0
+346.,Rackspace increases cloud rates by 22%,item?id=41978645,6 points,sarkedev,1 day ago,1 comment,0
+347.,"Famous picture of black hole in our galaxy might not be accurate, research says",https://www.independent.co.uk/tech/milky-way-black-hole-galaxy-picture-b2637008.html,5 points,amichail,1 day ago,discuss,0
+348.,Lingo: A Go micro language framework for building Domain Specific Languages,https://about.gitlab.com/blog/2022/05/26/a-go-micro-language-framework-for-building-dsls/,133 points,adityasaky,5 days ago,50 comments,0
+349.,AT&T announces $1B fiber deal with Corning,https://www.reuters.com/business/media-telecom/att-announces-1-bln-fiber-deal-with-corning-2024-10-28/,19 points,JumpCrisscross,1 day ago,3 comments,0
+350.,It all started with a perceptron,https://medium.com/@vincentlambert0/it-all-started-with-a-perceptron-86bd0fb80b96,29 points,thunderbong,2 days ago,7 comments,0
+351.,"Universal Stainless, Set to Be Acquired, Behind Fatal Bell Boeing Osprey Crash",https://hntrbrk.com/usap/,14 points,impish9208,1 day ago,discuss,0
+352.,Show HN: Pneumatic – free open-source workflow software,https://github.com/pneumaticapp/pneumaticworkflow,63 points,pneumaticteam,5 days ago,22 comments,0
+353.,"ST Book, the Notebook Atari ST",https://www.goto10retro.com/p/st-book-the-notebook-atari-st,118 points,rbanffy,5 days ago,100 comments,0
+354.,Chinese chipmaker's new 7nm CPUs reportedly outperform Intel's Raptor Lake,https://www.tomshardware.com/pc-components/cpus/chinese-chipmakers-new-7nm-cpus-reportedly-outperform-intels-raptor-lake-loongson-adopts-tock-tock-tick-strategy-to-close-the-gap-with-intel,14 points,rbanffy,15 hours ago,2 comments,0
+355.,"Ford sees another $1B EV loss, lowers guidance and its stock falls 6%",https://www.marketwatch.com/story/ford-sees-another-1-billion-ev-loss-and-stock-falls-4-d8eb0e07,16 points,ivewonyoung,1 day ago,17 comments,0
+356.,Show HN: Open-Source Real-Time Water Quality Monitoring with AI Features,https://aquaware.cloud/,7 points,kesslermatics,2 days ago,discuss,0
+357.,CVE-2024-9632 xorg-x11-server: heap-based buffer overflow privilege escalation,https://bugzilla.redhat.com/show_bug.cgi?id=CVE-2024-9632,3 points,todsacerdoti,13 hours ago,discuss,0
+358.,Claude is now available on GitHub Copilot,https://www.anthropic.com/news/github-copilot,44 points,BoumTAC,15 hours ago,10 comments,0
+359.,Wazuh – open-source Security Platform,https://wazuh.com/,3 points,LorenDB,2 days ago,discuss,0
+360.,MrBeast's Faux Philanthropy,https://unherd.com/2024/10/mrbeasts-faux-philanthropy/,107 points,elsewhen,4 days ago,88 comments,0
+361.,Show HN: Desktop Sandbox for Secure Cloud Computer Use,https://github.com/e2b-dev/desktop,49 points,mlejva,5 days ago,7 comments,0
+362.,Jeff Bezos's DC Mansion Has Made Its Social Debut,https://www.washingtonian.com/2020/01/27/jeff-bezos-dc-mansion-has-made-its-social-debut/,4 points,mooreds,6 hours ago,1 comment,0
+363.,Wayland: I3 to Sway Migration – Anarcat,https://anarc.at/software/desktop/wayland/,28 points,ossusermivami,5 days ago,15 comments,0
+364.,Microsoft says Google is behind 'shadow campaigns' to undermine cloud business,https://www.theverge.com/2024/10/28/24281926/microsoft-google-cloud-lobbying-european-commission-regulators,7 points,47thpresident,1 day ago,1 comment,0
+365.,What's New in POSIX 2024 – XCU,https://blog.toast.cafe/posix2024-xcu,3 points,todsacerdoti,2 days ago,discuss,0
+366.,Wikipedia article blocked worldwide by Delhi high court,https://en.wikipedia.org/wiki/Asian_News_International_vs._Wikimedia_Foundation,703 points,intunderflow,4 days ago,476 comments,0
+367.,Apple wins $250 US jury verdict in patent case over Masimo smartwatches,https://www.reuters.com/legal/masimo-smartwatches-infringe-apple-patents-us-jury-says-2024-10-25/,73 points,mistersquid,3 days ago,43 comments,0
+368.,"Norlha, the Luxury Yak Wool Brand Made by Nomads on the Tibetan Plateau",https://www.anothermag.com/fashion-beauty/12229/norlha-is-the-tibetan-label-changing-what-luxury-fashion-looks-like,4 points,eatonphil,2 days ago,discuss,0
+369.,Sudha Car Museum,https://twitter.com/anandmahindra/status/1850005999811174634,49 points,udit99,3 days ago,19 comments,0
+370.,Google's Shadow Campaigns,https://blogs.microsoft.com/on-the-issues/2024/10/28/googles-shadow-campaigns/,10 points,lunarmony,10 hours ago,1 comment,0
+371.,Apple put the Magic Mouse's charging port on the bottom again,https://www.theverge.com/2024/10/28/24276043/apple-new-usb-c-magic-mouse-charging-port-bottom,13 points,miles,1 day ago,17 comments,0
+372.,GenAI is set to create a mountainous increase in e-waste,https://www.theregister.com/2024/10/28/genai_dirty_secret/,49 points,rntn,1 day ago,18 comments,0
+373.,Gravity is not a force,https://superposer.substack.com/p/gravity-is-not-a-force,53 points,Luc,1 day ago,146 comments,0
+374.,"Tell HN: GpuOwl/PRPLL, GPU software used to find the largest prime number",item?id=41953063,70 points,mpreda,3 days ago,43 comments,0
+375.,AmpereOne at Hot Chips 2024: Maximizing Density,https://chipsandcheese.com/p/ampereone-at-hot-chips-2024-maximizing-density,16 points,PaulHoule,4 days ago,discuss,0
+376.,Un-Deprecate <big>: my plea to the W3C,https://paper.wf/binarycat/un-deprecate-big,5 points,todsacerdoti,14 hours ago,3 comments,0
+377.,Dune3D v1.2,https://docs.dune3d.org/en/1.2/whats-new.html#in-version-1-2,7 points,v9v,1 day ago,1 comment,0
+378.,Official Raspberry Pi NVMe SSD Review,https://bret.dk/official-raspberry-pi-nvme-ssd-review/,84 points,geerlingguy,5 days ago,75 comments,0
+379.,Pimp My Man,https://kszenes.github.io/blog/2024/Manpager/,15 points,d3m0t3p,23 hours ago,2 comments,0
+380.,Elon Musk-funded PAC boosts Democrat-imitating ad campaign,https://www.404media.co/elon-musk-funded-pac-supercharges-progress-2028-democrat-impersonation-ad-campaign/,6 points,cannibalXxx,12 hours ago,1 comment,0
+381.,A brief history of Mac firmware,https://eclecticlight.co/2024/10/26/a-brief-history-of-mac-firmware/,50 points,Brajeshwar,3 days ago,11 comments,0
+382.,Show HN: AI agents working together in a virtual podcast studio. NotebookLM alt,https://github.com/leopiney/neuralnoise,9 points,leopiney,3 days ago,2 comments,0
+383.,Matrix 2.0 Is Here,https://matrix.org/blog/2024/10/29/matrix-2.0-is-here/,30 points,Arathorn,14 hours ago,2 comments,0
+384.,C64 Game Uses a Datassette as a Controller [video],https://www.youtube.com/watch?v=4zovOu_W4cE,6 points,amichail,1 day ago,1 comment,0
+385.,U.S. Consumer Watchdog Cautions Businesses on Surveillance of Workers,https://www.wsj.com/articles/u-s-consumer-watchdog-cautions-businesses-on-surveillance-of-workers-8262bee3,118 points,sandwichsphinx,5 days ago,33 comments,0
+386.,Alphabet Revenue Jumps 15% to $88.3B,https://www.nytimes.com/2024/10/29/technology/alphabet-google-earnings.html,13 points,xnx,11 hours ago,2 comments,0
+387.,The EU Joins the EV Trade War,https://www.apricitas.io/p/the-eu-joins-the-ev-trade-war,4 points,m-hodges,19 hours ago,discuss,0
+388.,Apple iPhone 16 sales blocked in Indonesia due to local parts rule,https://asia.nikkei.com/Business/Technology/Apple-iPhone-16-sales-blocked-in-Indonesia-due-to-local-parts-rule,20 points,mikhael,1 day ago,6 comments,0
+389.,Recent BGP leak that redirected internet traffic through Russia,https://www.kentik.com/blog/beyond-their-intended-scope-uzing-into-russia/,57 points,vladyslavfox,22 hours ago,15 comments,0
+390.,"Before you can have Smalltalk, you must first defeat capitalism?",https://www.mgaudet.ca/blog/2024/10/28/before-you-can-have-smalltalk-you-must-first-defeat-capitalism,14 points,ska80,1 day ago,11 comments,0
+391.,Working with Igalia to Improve RISC-V LLVM Continuous Integration,https://riseproject.dev/2024/10/15/working-with-igalia-to-improve-risc-v-llvm-continuous-integration/,30 points,thebeardisred,5 days ago,7 comments,0
+392.,ElasticSearch and many other repos are gone,https://github.com/elastic/elasticsearch,85 points,tison,18 hours ago,61 comments,0
+393.,Infinite Git repos on Cloudflare workers,https://gitlip.com/blog/infinite-git-repos-on-cloudflare-workers,143 points,plesiv,4 days ago,90 comments,0
+394.,CVE-2024-45844: Privilege escalation in F5 BIG-IP,https://offsec.almond.consulting/privilege-escalation-f5-CVE-2024-45844.html,12 points,notmine1337,4 days ago,discuss,0
+395.,Ask HN: Escape from TCR? Family shared SMS,item?id=41955265,24 points,tcrhelpforsms,3 days ago,48 comments,0
+396.,Open washing – why companies pretend to be open source,https://www.theregister.com/2024/10/25/opinion_open_washing/,139 points,Brajeshwar,3 days ago,88 comments,0
+397.,34x34x34 Rubik's Cube,https://ruwix.com/blog/34x34x34-rubiks-cube-record/,3 points,Brajeshwar,2 days ago,discuss,0
+398.,The Frankfurt Kitchen (2011),https://www.moma.org/interactives/exhibitions/2010/counter_space/the_frankfurt_kitchen/,4 points,benbreen,2 days ago,discuss,0
+399.,"Viral trapdoor: Scientists discover how a protein protects against HIV, herpes",https://medicalxpress.com/news/2024-10-viral-trapdoor-scientists-protein-hiv.html,6 points,PaulHoule,1 day ago,1 comment,0
+400.,Claude Computer Use – Is Vision the Ultimate API?,https://www.thariq.io/blog/claudecomputer/,113 points,trq_,5 days ago,90 comments,0
+401.,Will your store be sold off in the Kroger/Albertsons merger?,https://usfooddesert.com,9 points,oidar,3 days ago,discuss,0
+402.,Is there now a generation of users who never worked with files?,https://blog.hyperknot.com/p/is-there-now-a-generation-of-users,4 points,gelstudios,2 days ago,1 comment,0
+403.,Annoyed Redditors tanking Google Search results illustrates peril of AI scrapers,https://arstechnica.com/gadgets/2024/10/fake-restaurant-tips-on-reddit-a-reminder-of-google-ai-overviews-inherent-flaws/,5 points,isaacfrond,17 hours ago,discuss,0
+404.,Real GDP (purchasing power parity),https://www.cia.gov/the-world-factbook/field/real-gdp-purchasing-power-parity/country-comparison/,60 points,okasaki,2 days ago,73 comments,0
+405.,Kroger and Walmart deny 'surge pricing' after adopting digital price tags,https://www.nytimes.com/2024/10/23/business/kroger-walmart-facial-recognition-prices.html,25 points,bookofjoe,2 days ago,22 comments,0
+406.,AI Slop Is Flooding Medium,https://www.wired.com/story/ai-generated-medium-posts-content-moderation/,78 points,minimaxir,1 day ago,73 comments,0
+407.,"Salmon Return to Klamath River After 112 Years, with Largest Dam Removal in U.S.",https://www.smithsonianmag.com/smart-news/salmon-make-a-long-awaited-return-to-the-klamath-river-for-the-first-time-in-112-years-after-largest-dam-removal-in-us-180985319/,59 points,rntn,4 days ago,1 comment,0
+408.,Wikipedia Offers to Reveal User Identities in Sealed Covers in ANI Case,https://www.medianama.com/2024/10/223-wikipedia-offers-reveal-user-identities-in-sealed-covers-report/,22 points,mokelupa,14 hours ago,1 comment,0
+409.,Shanghai cracks down on Halloween costumes,https://www.ft.com/content/d0d1c7cf-69ee-4938-8d2e-0943b1bc95b0,32 points,JumpCrisscross,2 days ago,13 comments,0
+410.,California Discourages Schools from Offering Advanced Middle School Math (2023),https://reason.com/2023/10/04/california-state-guidelines-discourage-schools-from-offering-advanced-middle-school-math/,71 points,hui-zheng,4 days ago,35 comments,0
+411.,"The Middle East Drug Fueling War, Crime and All-Night Parties",https://www.wsj.com/world/middle-east/captagon-drug-syria-assad-hezbollah-f1588132,16 points,mudil,2 days ago,11 comments,0
+412.,Steady in a shifting open-source world: FreeBSD's enduring stability,https://opensource.net/freebsd-steady-shifting-open-source-world/,5 points,rodrigo975,8 hours ago,discuss,0
+413.,Leave the Internet Archive Alone,https://www.computerworld.com/article/3593110/leave-the-internet-archive-alone.html,29 points,CrankyBear,17 hours ago,18 comments,0
+414.,Jia Tanning Go Code,https://www.arp242.net/jia-tan-go.html,32 points,zoidb,1 day ago,5 comments,0
+415.,How fast can you parse a CSV file in C#?,https://lemire.me/blog/2024/10/17/how-fast-can-you-parse-a-csv-file-in-c/,24 points,greghn,2 days ago,11 comments,0
+416.,Toyota's Solid-State Battery Ambitions Are One Step Closer to Reality,https://carbuzz.com/toyota-solid-state-battery-basic-design-initiated/,7 points,RickJWagner,1 day ago,discuss,0
+417.,Libgit2 in 2024: The Past,https://www.edwardthomson.com/blog/libgit2-in-2024-the-past.html,19 points,DylanSp,4 days ago,3 comments,0
+418.,Leopard: A Vision Language Model for Text-Rich Multi-Image Tasks,https://arxiv.org/abs/2410.01744,6 points,PaulHoule,4 days ago,discuss,0
+419.,Starbucks tells corporate workers to return to office or risk being fired,https://www.theguardian.com/business/2024/oct/29/starbucks-return-to-office-mandate,5 points,frans,10 hours ago,discuss,0
+420.,KitOps: Only Standards-Based Packaging and Versioning Tool for AI/ML Projects,https://kitops.ml/docs/overview.html,17 points,dsaed,4 days ago,2 comments,0
+421.,Canvas Fingerprinting,https://browserleaks.com/canvas,101 points,janandonly,3 days ago,116 comments,0
+422.,How much of the solar system should be designated wilderness?,https://www.technologyreview.com/2019/06/17/134924/how-much-of-the-solar-system-should-be-designated-wilderness/,5 points,stereoabuse,1 day ago,discuss,0
+423.,Inside the Transport for London cyberattack,https://www.londoncentric.media/p/an-utter-shitshow-inside-the-transport,99 points,alexbilbie,2 days ago,83 comments,0
+424.,Cerebras Trains Llama Models to Leap over GPUs,https://www.nextplatform.com/2024/10/25/cerebras-trains-llama-models-to-leap-over-gpus/,4 points,rbanffy,3 days ago,discuss,0
+425.,IBM's mainframe bubble bursts and growth stalls,https://www.theregister.com/2024/10/24/ibm_q3_2024/,5 points,belter,1 day ago,discuss,0
+426.,OSI Announces the Release of the Industry's First Open Source AI Definition,https://opensource.org/blog/the-open-source-initiative-announces-the-release-of-the-industrys-first-open-source-ai-definition,7 points,tedivm,1 day ago,1 comment,0
+427.,Show HN: Create Waitlist Pages,https://www.fastwaitlist.com/,11 points,ondrej_bartos_,4 days ago,1 comment,0
+428.,Evolutionary history of the fruits we commonly eat,https://graphallthethings.com/posts/fruits,5 points,yeknoda,3 days ago,discuss,0
+429.,Jeff Bezos is no longer relentlessly focused on customer satisfaction,https://www.theverge.com/2024/10/28/24282076/jeff-bezos-washington-post-cancellations-endorsement,6 points,ecliptik,1 day ago,discuss,0
+430.,"Pizza place accidentally spiked dough with THC, sickening dozens",https://arstechnica.com/health/2024/10/thc-tainted-pizza-sickens-dozens-in-wisc-owner-blames-oil-bottle-mix-up/,4 points,nobody9999,1 day ago,discuss,0
+431.,Apple is turning The Oregon Trail into a movie,https://arstechnica.com/culture/2024/10/apple-is-turning-the-oregon-trail-into-a-movie/,33 points,duxup,17 hours ago,27 comments,0
+432.,Free-software foundations face fundraising problems,https://lwn.net/SubscriberLink/993665/858d016fc8b6bf7e/,11 points,throw2343223434,4 days ago,4 comments,0
+433.,New species of tardigrade reveals secrets of radiation-resisting powers,https://www.nature.com/articles/d41586-024-03484-1,49 points,KasianFranks,4 days ago,12 comments,0
+434.,"Research shows dating apps, sites are leading to more diverse couples",https://phys.org/news/2024-10-dating-apps-sites-diverse-couples.html,6 points,PaulHoule,1 day ago,discuss,0
+435.,Show HN: I built a paragraph rewriter that runs 100% in the browser,https://paragraphrewrite.com/demo,11 points,orenha,3 days ago,6 comments,0
+436.,Bias and Deviation Weighted Graph Search for NLOS Indoor RTLS Calibration,https://www.mdpi.com/2079-9292/13/20/3993,6 points,PaulHoule,3 days ago,discuss,0
+437.,Access to video game consoles improved mental well-being during Covid – study,https://www.psypost.org/a-unique-event-in-japan-gave-scientists-unprecedented-insight-into-gamings-mental-health-effects/,12 points,sundarurfriend,1 day ago,2 comments,0
+438.,Bulma CSS Framework,https://bulma.io/,48 points,gjvc,2 days ago,52 comments,0
+439.,When the 80/20 Rule Fails: The Downside of Being Effective,https://jamesclear.com/the-downside-of-being-effective,20 points,colinprince,2 days ago,5 comments,0
+440.,Show HN: Jist searches JSON 3x faster than jq,https://github.com/adelamodwala/jist,11 points,adelamodwala1,3 days ago,discuss,0
+441.,PineNote Community Edition: Preorder coming soon,https://pine64.com/product/pinenote-community-edition-coming-soon/,83 points,rcarmo,3 days ago,34 comments,0
+442.,Cabbies Say Cost to Move to Wheelchair-Accessible Cars Is Too High,https://www.thecity.nyc/2024/10/10/cabs-accessible-cars-drivers-wheelchair-cost/,6 points,PaulHoule,1 day ago,4 comments,0
+443.,YouTube tests removing viewer counts,https://www.tomsguide.com/computing/software/youtube-tests-removing-viewer-counts-heres-what-we-know,13 points,qwertox,11 hours ago,6 comments,0
+444.,Bluesky Announces Series A to Grow Network of 13M+ Users,https://bsky.social/about/blog/10-24-2024-series-a,35 points,mkeeter,5 days ago,29 comments,0
+445.,Building a more robust Wikipedia interface by spotting the differences (2023),https://www.nray.dev/blog/visual-testing-building-a-more-robust-wikipedia-interface-by-spotting-the-differences/,22 points,gofiggy,3 days ago,10 comments,0
+446.,Please show me lots of digits,https://dynomight.substack.com/p/digits,26 points,gregorymichael,5 days ago,1 comment,0
+447.,Feds: You Don't Have a Right to Check Out Retro Video Games Like Library Books,https://gizmodo.com/feds-say-you-dont-have-a-right-to-check-out-retro-video-games-like-library-books-2000516767,114 points,mikhael,4 days ago,97 comments,0
+448.,Copilot vs. Cursor vs. Cody vs. Supermaven vs. Aider,https://www.vincentschmalbach.com/copilot-vs-cursor-vs-cody-vs-supermaven-vs-aider/,26 points,vincent_s,4 days ago,10 comments,0
+449.,Harnessing the Power of Silicon Carbide in Industrial Induction Heating,https://www.microchip.com/en-us/about/media-center/blog/2024/silicon-carbide-in-industrial-induction-heating,13 points,sandwichsphinx,4 days ago,1 comment,0
+450.,Suite smells: testing legacy code,https://bitfieldconsulting.com/posts/testing-legacy-code,25 points,gus_leonel,1 day ago,10 comments,0
+451.,Mapping Germany's 'Dangerous Zones' and Police Overreach,https://ueberwacht-atlas.netlify.app/,21 points,agragra,1 day ago,3 comments,0
+452.,Canada to cover cost of contraception and diabetes drugs,https://www.bbc.com/news/articles/cwylw2ee05yo,14 points,nithinj,1 day ago,1 comment,0
+453.,"Linus and Dirk on succession, Rust, and more",https://lwn.net/Articles/990534/,5 points,gnyeki,1 day ago,discuss,0
+454.,Shenzhou-18 crew video on life and work in space aboard Tiangong Space Station,https://www.youtube.com/watch?v=IMoomWmIkww,7 points,abstractbeliefs,1 day ago,discuss,0
+455.,Akon's Cryptocurrency City in Senegal Has Evaporated,https://foreignpolicy.com/2024/10/25/senegal-cryptocurrency-akon-city-akoin/,33 points,teractiveodular,4 days ago,20 comments,0
+456.,Florida's new condo laws recognize the total price of living on the beach,https://theconversation.com/floridas-new-condo-laws-recognize-the-total-price-of-living-on-the-beach-239163,31 points,rntn,3 days ago,11 comments,0
+457.,Show HN: Frontmatter Format: A micro-format for YAML metadata on any file,https://github.com/jlevy/frontmatter-format,8 points,zalzal,4 days ago,1 comment,0
+458.,Rocket Cars in Cleveland,https://www.wsj.com/lifestyle/cars/you-dont-need-to-be-a-billionaire-to-ride-in-her-rocket-car-43c42c89,3 points,dr_dshiv,3 days ago,1 comment,0
+459.,Logical vs. Physical Data Types,https://blog.spiraldb.com/logical-vs-physical-data-types/,33 points,gatesn,5 days ago,discuss,0
+460.,I've always liked physics games so let's do another,https://crispsandwi.ch/@mattround/112893794552920813,24 points,sternmere,2 days ago,5 comments,0
+461.,Raspberry Pi OS's yearslong switch from X Window to Wayland is now official,https://arstechnica.com/gadgets/2024/10/raspberry-pi-oss-years-long-switch-from-x-window-to-wayland-is-now-official/,15 points,Brajeshwar,16 hours ago,4 comments,0
+462.,Open-Access AI: Lessons from Open-Source Software,https://www.lawfaremedia.org/article/open-access-ai--lessons-from-open-source-software,5 points,ano-ther,3 days ago,discuss,0
+463.,Protecting Router Freedom in Europe [pdf],https://download.fsfe.org/routers/fsfe-router-freedom-activity-summary.pdf,8 points,paulcarroty,13 hours ago,discuss,0
+464.,"Show HN: JSON-qs – JSON in query strings, human-readable, compact",https://github.com/alloc/alien-rpc/tree/master/packages/json-qs,13 points,aleclarsoniv,5 days ago,4 comments,0
+465.,Amanatides and Woo's Fast Voxel Traversal,https://m4xc.dev/articles/amanatides-and-woo/,3 points,ibobev,3 days ago,discuss,0
+466.,Sekino's Art World,https://www.sekinoworld.com/,3 points,networked,3 days ago,discuss,0
+467.,"Intel, CEO Pat Gelsinger fumbled the revival of an American icon",https://www.reuters.com/technology/inside-intel-ceo-pat-gelsinger-fumbled-revival-an-american-icon-2024-10-29/,10 points,achristmascarl,13 hours ago,discuss,0
+468.,Sandblocks: A Projectional Block-Based Editor for Squeak,https://news.squeak.org/2024/10/25/sandblocks-a-projectional-block-based-editor-for-squeak/,4 points,thunderbong,4 days ago,discuss,0
+469.,Foxfire,https://en.wikipedia.org/wiki/Foxfire,4 points,reaperducer,1 day ago,discuss,0
+470.,Fedora 41,https://www.redhat.com/en/blog/announcing-fedora-41,4 points,6581,10 hours ago,discuss,0
+471.,Geoffrey Hinton said machine learning would outperform radiologists by now,https://newrepublic.com/article/187203/ai-radiology-geoffrey-hinton-nobel-prediction,51 points,Hard_Space,4 days ago,107 comments,0
+472.,AI models fall for the same scams that we do,https://www.newscientist.com/article/2453350-ai-models-fall-for-the-same-scams-that-we-do/,23 points,Brajeshwar,3 days ago,8 comments,0
+473.,"Car sharing and second-hand phones not as green as they seem, research shows",https://phys.org/news/2024-10-car-green.html,3 points,PaulHoule,1 day ago,1 comment,0
+474.,Stop Pretending to Do Domain-Driven Design,https://www.jamesmichaelhickey.com/stop-pretending-domain-driven-design/,24 points,ingve,2 days ago,3 comments,0
+475.,WordPress on Hiatus,https://thefragens.com/wordpress-on-hiatus/,3 points,ValentineC,3 days ago,discuss,0
+476.,"Astronomers Push FCC to Halt New Starlink Launches, Citing Environment",https://www.pcmag.com/news/astronomers-push-fcc-to-halt-new-starlink-launches-citing-environment,32 points,lg_rocket,4 days ago,discuss,0
+477.,Show HN: Decentralized Twitter clone built on Ethereum blockchain,https://github.com/Dyslex7c/Decentralized-Twitter,23 points,grobat79,2 days ago,9 comments,0
+478.,The Effects of Generative AI on Design Fixation and Divergent Thinking,https://dl.acm.org/doi/full/10.1145/3613904.3642919,6 points,adrianhoward,4 days ago,discuss,0
+479.,Tommy Robinson arrested under Terrorism Act for not unlocking phone,https://www.independent.co.uk/news/uk/tommy-robinson-kent-police-woolwich-crown-court-trafalgar-square-high-court-b2635947.html,31 points,quazar,2 days ago,36 comments,0
+480.,Ask HN: Alternative to Emacs with undo-tree functionality?,item?id=41954030,4 points,HexDecOctBin,3 days ago,6 comments,0
+481.,New Architecture is here,https://reactnative.dev/blog/2024/10/23/the-new-architecture-is-here,151 points,stigi,5 days ago,124 comments,0
+482.,Greenhouse gas concentrations surge again to new record in 2023,https://wmo.int/news/media-centre/greenhouse-gas-concentrations-surge-again-new-record-2023,3 points,pier25,1 day ago,discuss,0
+483.,Ask HN: What is the cheapest ($/hour) H100 renting service with quick spin-up?,item?id=41960800,6 points,dtquad,2 days ago,4 comments,0
+484.,"Hear the sounds of Earth's magnetic field from 41,000 years ago",https://www.usatoday.com/story/graphics/2024/10/26/eerie-sound-of-earth-magnetic-field/75796956007/,3 points,thunderbong,3 days ago,discuss,0
+485.,Smarter Than 'Ctrl+F': Linking Directly to Web Page Content,https://alfy.blog/2024/10/19/linking-directly-to-web-page-content.html,227 points,damir,5 days ago,134 comments,0
+486.,Efficient Microresonator Frequency Combs,https://elight.springeropen.com/articles/10.1186/s43593-024-00075-5,5 points,PaulHoule,4 days ago,1 comment,0
+487.,The rollercoaster king: the man behind the UK's fastest thrill-ride,https://www.theguardian.com/travel/2024/oct/24/rollercoaster-designer-john-burton-thorpe-park-hyperia,3 points,bookofjoe,3 days ago,discuss,0
+488.,Waymo does over 150k paid trips and over 1M autonomous miles every week,https://twitter.com/waymo/status/1851365483972538407,52 points,fldskfjdslkfj,10 hours ago,61 comments,0
+489.,Sandblocks: A Projectional Block-Based Editor for Squeak,https://news.squeak.org/2024/10/25/sandblocks-a-projectional-block-based-editor-for-squeak/,5 points,thunderbong,4 days ago,discuss,0
+490.,Google Cloud region in Germany suffers 12 hour outage,https://www.datacenterdynamics.com/en/news/google-cloud-region-in-germany-suffers-12-hour-outage/,34 points,belter,4 days ago,4 comments,0
+491.,US satellite jammer is set for delivery as flaws are fixed,https://www.bloomberg.com/news/articles/2024-10-24/space-jammer-to-aim-at-russian-chinese-satellites-is-readied-as-flaws-are-fixed,55 points,JumpCrisscross,4 days ago,45 comments,0
+492.,PeaZip 10.0.0 Released,https://peazip.github.io/changelog.html,41 points,thunderbong,3 days ago,15 comments,0
+493.,Ask HN: Learning to interact correctly in online communities as a neurodivergent,item?id=41954667,25 points,TheLoneCat,3 days ago,33 comments,0
+494.,Privacy and control over your Recall experience,https://support.microsoft.com/en-gb/windows/privacy-and-control-over-your-recall-experience-d404f672-7647-41e5-886c-a3c59680af15,5 points,taubek,1 day ago,11 comments,0
+495.,"Python 3.13, what didn't make the headlines",https://www.bitecode.dev/p/python-313-what-didnt-make-the-headlines,33 points,pansa2,4 days ago,11 comments,0
+496.,Hacker attack causes log-in problems for Swiss media,https://www.bluewin.ch/en/news/hacker-attack-causes-log-in-problems-for-swiss-media-2420128.html,21 points,croes,4 days ago,9 comments,0
+497.,Open Source on its own is no alternative to Big Tech,https://berthub.eu/articles/posts/open-source-by-itself-is-no-alternative-for-big-tech/,165 points,lhoff,3 days ago,191 comments,0
+498.,The Vatican unveils official anime girl mascot,https://nichegamer.com/the-vatican-unveils-official-anime-girl-mascot/,8 points,type0,10 hours ago,6 comments,0
+499.,Insurers using satellite to inspect homes in California and dropping policies,https://www.sfchronicle.com/california/article/home-insurance-satellite-photo-19497336.php,15 points,paulpauper,3 days ago,1 comment,0
+500.,"x86 Early Kernel Boot Process with Microcode, ACPI Overrides, and Initrd",https://labcsmart.com/x86-platforms-part-3-early-kernel-boot-process-with-microcode-acpi-override-and-initrd/,12 points,transpute,1 day ago,2 comments,0
+501.,"Tell HN: Switched from Lightsail to Hetzner Cloud, 2 blogs for $4 a month",item?id=41956630,10 points,999900000999,3 days ago,25 comments,0
+502.,"The end of the NFL concussion crisis, what happened?",https://nymag.com/intelligencer/article/tua-tagovailoa-and-the-end-of-the-nfls-concussion-crisis.html,28 points,paulpauper,4 days ago,5 comments,0
+503.,Talk of a 7-Eleven Takeover Has Japan Worried About the Rice Balls,https://www.wsj.com/business/7-eleven-acquisition-japan-high-quality-food-437e1534,5 points,sandwichsphinx,2 days ago,discuss,0
+504.,SpaceX Booster Came Within 1 Second of Aborting Its First 'Catch' Landing,https://spacenews.com/starship-super-heavy-booster-came-within-one-second-of-aborting-first-catch-landing/,17 points,m463,2 days ago,6 comments,0
+505.,Skyscraper-high sewage plume erupts in Moscow,https://www.theregister.com/2024/10/28/moscow_sewage_plume/,14 points,beardyw,1 day ago,discuss,0
+506.,Nvidia dethrones Apple as the most valuable company,https://markets.businessinsider.com/news/stocks/nvidia-stock-price-market-cap-apple-most-valuable-company-nvda-2024-10,76 points,elsewhen,4 days ago,46 comments,0
+507.,Five Eyes nations tell tech startups to take infosec seriously. Again,https://www.theregister.com/2024/10/29/five_eyes_secure_innovation_campaign/,6 points,LinuxBender,15 hours ago,discuss,0
+508.,All the electricity you'll need for 40 years,https://www.innerpathing.com/p/all-the-electricity-youll-need-for,76 points,mwfogleman,2 days ago,122 comments,0
+509.,Company renting SF sleeping pods for $700 a month gains city approval,https://abc7news.com/post/exclusive-san-francisco-sleeping-pods-700-month-gains-city-approval/15482731/,11 points,theredsix,15 hours ago,12 comments,0
+510.,Disability Rights Are Technology Rights,https://www.eff.org/deeplinks/2024/06/disability-rights-are-technology-rights,30 points,hn_acker,4 days ago,1 comment,0
+511.,Russia Mulls Forking Linux in Response to Developer Exclusions,https://cyberinsider.com/russia-mulls-forking-linux-in-response-to-developer-exclusions/,7 points,thunderbong,1 day ago,discuss,0
+512.,A Modern CSS Reset (2024 update),https://www.joshwcomeau.com/css/custom-css-reset/,37 points,marban,5 days ago,12 comments,0
+513.,A 10x speedup for Cloudflare Queues,https://blog.cloudflare.com/how-we-built-cloudflare-queues/,27 points,HALtheWise,3 days ago,discuss,0
+514.,Toward Safe Transmutation in Rust,https://lwn.net/SubscriberLink/994334/5e1f97f08916b494/,5 points,throw2343223434,4 days ago,discuss,0
+515.,How Virtual Reality Died,https://www.honest-broker.com/p/how-virtual-reality-died,6 points,sanqui,1 day ago,1 comment,0
+516.,"""We took on Google and they were forced to pay out £2B""",https://www.bbc.com/news/articles/cjr431lr72jo,67 points,lispisok,3 days ago,35 comments,0
+517.,First look at prototype telescope for the LISA gravitational-wave mission,https://physicsworld.com/a/first-look-at-prototype-telescope-for-the-lisa-gravitational-wave-mission/,6 points,sandwichsphinx,2 days ago,1 comment,0
+518.,Rights groups urge IMF to address corruption in Covid-19 emergency funding,https://africa.cgtn.com/rights-groups-urge-imf-to-address-corruption-in-covid-19-emergency-funding/,17 points,wallbrownf,2 days ago,2 comments,0
+519.,Banks and regulators warn of rise in 'quishing' QR code scams,https://www.ft.com/content/8aca741e-6448-4511-a54d-64f3a97747b1,4 points,marban,1 day ago,1 comment,0
+520.,"Russian court fines Google $20,000,000,000,000,000,000,000,000,000,000,000",https://www.theregister.com/2024/10/29/russian_court_fines_google/,21 points,beardyw,10 hours ago,6 comments,0
+521.,Collapse of key Atlantic current could have catastrophic impacts,https://www.livescience.com/planet-earth/rivers-oceans/we-dont-really-consider-it-low-probability-anymore-collapse-of-key-atlantic-current-could-have-catastrophic-impacts-says-oceanographer-stefan-rahmstorf,44 points,Brajeshwar,3 days ago,12 comments,0
+522.,"Flox, a better alternative to Dev Containers",https://medium.com/@pierre_49652/flox-better-alternative-to-dev-containers-d02e1a2ec423,44 points,pierrebeucher,5 days ago,17 comments,0
+523.,Cable companies ask 5th Circuit to block FTC's click-to-cancel rule,https://arstechnica.com/tech-policy/2024/10/cable-companies-ask-5th-circuit-to-block-ftcs-click-to-cancel-rule/,232 points,LorenDB,5 days ago,206 comments,0
+524.,Microsoft fires employees who organized vigil for Palestinians killed in Gaza,https://www.msn.com/en-us/news/world/microsoft-fires-employees-who-organized-vigil-for-palestinians-killed-in-gaza/ar-AA1sX4Tf,84 points,wannacboatmovie,3 days ago,50 comments,0
+525.,Freeing Glucose Data from Freestyle,https://frdmtoplay.com/freeing-glucose-data-from-the-freestyle-libre-3/,9 points,InGoldAndGreen,5 days ago,4 comments,0
+526.,Migrating billions of records: moving our active DNS database while it's in use,https://blog.cloudflare.com/migrating-billions-of-records-moving-our-active-dns-database-while-in-use/,14 points,mikece,19 hours ago,discuss,0
+527.,"H5N1 Outbreak in Central Valley, California: dead cows piled by roadsides",https://www.latimes.com/environment/story/2024-10-20/as-bird-flu-outbreaks-rise-piles-of-dead-cows-become-morbid-central-valley-tableau,39 points,spats1990,5 days ago,11 comments,0
+528.,Approximately 1 in 7 Scientific Papers Are Fake,https://osf.io/s4gce/,14 points,l33tbro,4 days ago,discuss,0
+529.,Gauge Block,https://en.wikipedia.org/wiki/Gauge_block,17 points,sandwichsphinx,4 days ago,1 comment,0
+530.,GitHub Copilot code review in GitHub.com (public preview),https://github.blog/changelog/2024-10-29-github-copilot-code-review-in-github-com-public-preview/,5 points,ingve,12 hours ago,discuss,0
+531.,University of Waterloo to build fourth mathematics building,https://www.therecord.com/news/waterloo-region/university-of-waterloo-to-build-fourth-mathematics-building/article_29f4bc45-5293-5599-a00f-11e2eeb36e49.html,8 points,amichail,2 days ago,discuss,0
+532.,Court Orders Google (A Monopolist) to Knock It Off with the Monopoly Stuff,https://www.eff.org/deeplinks/2024/10/court-orders-google-monopolist-knock-it-monopoly-stuff,6 points,mrpotato,15 hours ago,discuss,0
+533.,GDDR7 Memory Supercharges AI Inference,https://semiengineering.com/gddr7-memory-supercharges-ai-inference/,68 points,PaulHoule,1 day ago,34 comments,0
+534.,Graph Retrieval Using Postgres Recursive CTEs,https://www.sheshbabu.com/posts/graph-retrieval-using-postgres-recursive-ctes/,12 points,aleclarsoniv,5 days ago,discuss,0
+535.,A Misreading Of Yoda,https://www.gregorypellechi.com/blog/2023/1/23/a-misreading-of-yoda,4 points,ilrwbwrkhv,5 days ago,discuss,0
+536.,UnitedHealth says data of 100M stolen in Change Healthcare hack,https://www.bleepingcomputer.com/news/security/unitedhealth-says-data-of-100-million-stolen-in-change-healthcare-hack/,76 points,sandwichsphinx,5 days ago,36 comments,0
+537.,"Polish radio station ditches DJs, journalists for AI-generated college kids",https://www.theregister.com/2024/10/25/polish_radio_station_ai_hosts/,25 points,Brajeshwar,4 days ago,15 comments,0
+538.,LocalStorage vs. IndexedDB vs. Cookies vs. OPFS vs. WASM-SQLite,https://rxdb.info/articles/localstorage-indexeddb-cookies-opfs-sqlite-wasm.html,25 points,thunderbong,2 days ago,1 comment,0
+539.,"On Friday 21st March 2025, the sun will set on the British ""Empire""",https://old.reddit.com/r/geography/comments/1fv9ti6/on_friday_21st_march_2025_at_0250_utc_the_sun/,82 points,redbell,3 days ago,24 comments,0
+540.,Researchers claim that an AI-powered transcription tool invents things,https://apnews.com/article/ai-artificial-intelligence-health-business-90020cdf5fa16c79ca2e5b6c4c9bbb14,5 points,cannibalXxx,2 days ago,1 comment,0
+541.,"Cerebras Inference now 3x faster: Llama3.1-70B breaks 2,100 tokens/s",https://cerebras.ai/blog/cerebras-inference-3x-faster,147 points,campers,5 days ago,84 comments,0
+542.,"The ""Energy Transition"" Won't Happen",https://www.city-journal.org/article/the-energy-transition-wont-happen,4 points,mentalically,12 hours ago,1 comment,0
+543.,The Raspberry Pi AI HAT+ with Up to 26 Tops,https://www.raspberrypi.com/news/raspberry-pi-ai-hat/,27 points,sandwichsphinx,4 days ago,7 comments,0
+544.,"VC Built an Empire in Cybersecurity, Then Came the Conflicts of Interest",https://www.forbes.com/sites/iainmartin/2024/10/28/this-vc-built-a-cybersecurity-unicorn-machine-then-came-his-conflict-of-interest-mess/,8 points,equalitech,19 hours ago,discuss,0
+545.,Local Privilege Escalation Vulnerability Affecting X.org Server for 18 Years,https://www.phoronix.com/news/X.Org-CVE-2024-9632,4 points,sandwichsphinx,12 hours ago,discuss,0
+546.,Rsbuild – A Better Vite?,https://rsbuild.dev/,72 points,synergy20,5 days ago,60 comments,0
+547.,Unbounded: A Generative Infinite Game of Character Life Simulation,https://generative-infinite-game.github.io/,4 points,xnx,4 days ago,discuss,0
+548.,Ask HN: How can tech help with mental health?,item?id=41958581,9 points,Gooblebrai,3 days ago,18 comments,0
+549.,Show HN: Bookface for Non-YC Founders,https://rally.socap.ai,7 points,ednevsky,4 days ago,1 comment,0
+550.,Meta under fire for 'polluting' open-source,https://www.ft.com/content/397c50d8-8796-4042-a814-0ac2c068361f,17 points,sherlockxu,4 days ago,1 comment,0
+551.,"Show HN: Adventures in Math with Symbolic Programming (SymPy, Python)",https://github.com/lascauje/taupy,3 points,lascauje,4 days ago,discuss,0
+552.,IBM's Red Hat Acquisition Will Pay for Itself by Early Next Year,https://www.nextplatform.com/2024/10/24/ibms-red-hat-acquisition-will-pay-for-itself-by-early-next-year/,35 points,rbanffy,5 days ago,2 comments,0
+553.,Reuters exposé of hack-for-hire world is back online after Indian court ruling,https://www.reuters.com/world/india/reuters-expos-hack-for-hire-world-is-back-online-after-indian-court-ruling-2024-10-26/,16 points,JumpCrisscross,2 days ago,discuss,0
+554.,AI-powered transcription tool used in hospitals invents things no one ever said,https://abcnews.go.com/US/wireStory/researchers-ai-powered-transcription-tool-hospitals-invents-things-115170291,31 points,MrVandemar,3 days ago,16 comments,0
+555.,Mastering JavaScript Type Detection: Techniques and Best Practices,https://medium.com/@jsdevspace/mastering-javascript-type-detection-techniques-and-best-practices-08f1218385e4,5 points,javatuts,2 days ago,1 comment,0
+556.,Association of holidays and the day of the week with multicounty suicide risk,https://www.bmj.com/content/387/bmj-2024-077262,6 points,rntn,2 days ago,1 comment,0
+557.,"Linux Use on Microsoft Azure Crosses 60%, AlmaLinux Now an Endorsed Distro",https://www.phoronix.com/news/Azure-Endorses-AlmaLinux,4 points,mikece,13 hours ago,discuss,0
+558.,Loro 1.0: A High-Performance CRDTs Library with Version Control,https://loro.dev/blog/v1.0,23 points,thunderbong,5 days ago,1 comment,0
+559.,"EU to Apple: ""Let Users Choose Their Software""; Apple: ""Nah""",https://www.eff.org/deeplinks/2024/10/eu-apple-let-users-choose-their-software-apple-nah,12 points,perihelions,23 hours ago,discuss,0
+560.,FSF is working on freedom in machine learning applications,https://www.fsf.org/news/fsf-is-working-on-freedom-in-machine-learning-applications,51 points,tjr,1 day ago,11 comments,0
+561.,Why the American Dream Became Unaffordable for the Middle Class [video],https://www.youtube.com/watch?v=K5pvsCztjNY,4 points,mgh2,13 hours ago,discuss,0
+562.,Bluesky's Alternate Approach to Feeds Is One of Its Best Features,https://www.howtogeek.com/blueskys-alternate-approach-to-feeds-is-one-of-its-best-features/,8 points,mooreds,19 hours ago,discuss,0
+563.,"The company behind Arc is now building a second, much simpler browser",https://www.theverge.com/2024/10/24/24279020/browser-company-ai-browser-arc,29 points,wmstack,5 days ago,17 comments,0
+564.,"Tiny Town in Ontario, Canada Selling Properties for $10 a Pop",https://macleans.ca/economy/realestateeconomy/cochrane-ontario-10-dollar-property/,22 points,Geekette,4 days ago,20 comments,0
+565.,Students with 'impossible' proof of Pythagorean Theorem discover more solutions,https://www.livescience.com/physics-mathematics/mathematics/high-school-students-who-came-up-with-impossible-proof-of-pythagorean-theorem-discover-9-more-solutions-to-the-problem,6 points,okasaki,19 hours ago,1 comment,0
+566.,Homeowners who rent on Airbnb must pay 13% tax on property value when they sell,https://www.thestar.com/real-estate/homeowners-who-regularly-rent-on-airbnb-and-other-sites-must-pay-13-tax-on-property/article_d085d5e0-9166-11ef-a141-73e5557f452e.html,30 points,chollida1,5 days ago,6 comments,0
+567.,Superlinker: A tool for reinterpreting ELF executables and shared libraries,https://github.com/whitequark/superlinker,29 points,fanf2,4 days ago,1 comment,0
+568.,NASA generated $76B for US economy in 2023,https://www.space.com/nasa-economic-impact-us-2023-report,8 points,ironyman,22 hours ago,discuss,0
+569.,Four-day week 'an overwhelming success' in Iceland,https://www.bbc.com/news/business-57724779,12 points,huhtenberg,3 days ago,1 comment,0
+570.,Ford CEO says new mid-size electric pickup will match the cost of Chinese EVs,https://electrek.co/2024/10/28/fords-new-electric-pickup-rival-chinese-evs-costs/,7 points,peutetre,1 day ago,discuss,0
+571.,Reasons Warhammer 40k should be considered a great work of science fiction,https://theconversation.com/five-reasons-warhammer-40-000-should-be-considered-a-great-work-of-science-fiction-241040,4 points,zeristor,7 hours ago,discuss,0
+572.,Russia is getting Nvidia AI chips from an Indian pharma company,https://timesofindia.indiatimes.com/india/russia-is-getting-nvidia-ai-chips-mumbai-drugmaker-putin-shreya-life-sciences-importgenius/articleshow/114672764.cms,6 points,colinprince,8 hours ago,discuss,0
+573.,We have an employee whose surname is Null (2014),https://stackoverflow.com/questions/4456438/how-to-pass-null-a-real-surname-to-a-soap-web-service-in-actionscript-3,36 points,jakey_bakey,5 days ago,6 comments,0
+574.,50k Oasis tickets to be cancelled for violating purchase terms,https://www.theguardian.com/music/2024/oct/29/50000-oasis-tickets-to-be-cancelled-for-violating-purchase-terms,3 points,tosh,14 hours ago,discuss,0
+575.,No Way Down: Chemical Release at Wacker Polysilicon [video],https://www.youtube.com/watch?v=CcMnf86n8_U,21 points,Element_,4 days ago,4 comments,0
+576.,Consider adding warnings against using ZFS native encryption,https://github.com/openzfs/openzfs-docs/issues/494,18 points,6581,3 days ago,4 comments,0
+577.,Half of Retirees Will Run Out of Money. That's the Good News,https://www.forbes.com/sites/andrewbiggs/2024/08/12/half-of-retirees-will-run-out-of-money-thats-the-good-news/,9 points,paulpauper,3 days ago,9 comments,0
+578.,Photos of the 1893 Chicago World’s Fair,https://www.theatlantic.com/photo/2024/10/photos-1893-chicago-worlds-fair/680358/,17 points,ecliptik,4 days ago,1 comment,0
+579.,Japan's rising ramen prices give election voters food for thought,https://www.reuters.com/world/asia-pacific/japans-rising-ramen-prices-give-election-voters-food-thought-2024-10-24/,28 points,livo_,5 days ago,1 comment,0
+580.,Alphabet ($GOOG) 2024 Q3 earnings release [pdf],https://abc.xyz/assets/71/a5/78197a7540c987f13d247728a371/2024q3-alphabet-earnings-release.pdf,35 points,CydeWeys,12 hours ago,3 comments,0
+581.,What Matters in Transformers? Not All Attention Is Needed,https://arxiv.org/abs/2406.15786,4 points,Anon84,5 days ago,discuss,0
+582.,"Election Interference by Russia, China, Iran",https://www.nytimes.com/2024/10/29/technology/election-interference-russia-china-iran.html,7 points,frevib,1 day ago,discuss,0
+583.,US airlines required to automatically refund you for canceled flight,https://abc7news.com/post/us-airlines-required-automatically-refund-significantly-changed-canceled-flight/15483534/,5 points,thunderbong,14 hours ago,discuss,0
+584.,US power grid added battery equivalent of 20 nuclear reactors in past four years,https://www.theguardian.com/environment/2024/oct/24/power-grid-battery-capacity-growth,18 points,toomuchtodo,2 days ago,12 comments,0
+585.,Delta sues CrowdStrike after widespread IT outage,https://www.cnbc.com/2024/10/25/delta-suit-against-crowdstrike-after-it-outage-caused-cancellations.html,45 points,belter,3 days ago,14 comments,0
+586.,Sway 1.10 Released with GPU Reset Recovery and Other Wayland Enhancements,https://www.phoronix.com/news/Sway-1.10-Released,11 points,laktak,2 days ago,discuss,0
+587.,Brazil reaches $23B settlement with mining firms over environmental disaster,https://apnews.com/article/brazil-mining-collapse-settlement-bhp-samarco-vale-mariana-8b84c808fa25139e019d7981a3b7de19,16 points,geox,4 days ago,1 comment,0
+588.,Details about booster landing burn shared by Elon,https://old.reddit.com/r/SpaceXLounge/comments/1gc7rex/details_about_booster_landing_burn_shared_by_elon/,12 points,alfiopuglisi,3 days ago,1 comment,0
+589.,"Japan's Liberal Democratic Party lost parliamentary majority, 1st since 2009",https://www.cnbc.com/2024/10/27/japan-election-liberal-democratic-party-to-fall-short-of-majority.html,3 points,donsupreme,2 days ago,discuss,0
+590.,"Amish have low cancer rate, but why?",https://www.dispatch.com/story/news/2010/01/08/amish-have-low-cancer-rate/23895255007/,28 points,thunderbong,5 days ago,30 comments,0
+591.,Every number in Google Analytics is wrong,https://plausible.io/most-accurate-web-analytics,10 points,hricha_shandily,2 days ago,10 comments,0
+592.,Solid back end language to learn,item?id=41953809,11 points,pkrzysiek,3 days ago,12 comments,0
+593.,"Dead Labor, Dead Speech – What happens when culture becomes an industry's raw...",https://www.newcartographies.com/p/dead-labor-dead-speech,9 points,mikae1,2 days ago,1 comment,0
+594.,The Staggering Success of Vaccines,https://www.nature.com/articles/d41586-024-03412-3,12 points,sohkamyung,1 day ago,1 comment,0
+595.,Anyone Can Learn Echolocation in Just 10 Weeks–and It Remodels Your Brain,https://www.scientificamerican.com/article/anyone-can-learn-echolocation-in-just-10-weeks-and-it-remodels-your-brain/,24 points,isaacfrond,4 days ago,1 comment,0
+596.,Wikipedia agrees to share details with Delhi Court about users who made edits,https://www.barandbench.com/news/wikipedia-user-details-delhi-high-court-ani,26 points,DarkCrusader2,1 day ago,14 comments,0
+597.,A high-profile geneticist is launching Pacific Fusion,https://www.wired.com/story/plaintext-pacific-fusion-eric-lander/,14 points,sudohalt,4 days ago,9 comments,0
+598.,Apple stuck the Mac mini power button on the bottom,https://appleinsider.com/articles/24/10/29/apple-stuck-the-mac-mini-power-button-on-the-bottom,32 points,croes,5 hours ago,43 comments,0
+599.,1-Click Models Powered by Hugging Face,https://www.digitalocean.com/blog/one-click-models-on-do-powered-by-huggingface,16 points,alDuncanson,5 days ago,discuss,0
+600.,Scientists are mapping landslide risk in Alaska,https://www.nytimes.com/2024/10/21/climate/landslide-risk-alaska-maps.html,26 points,bookofjoe,3 days ago,6 comments,0
+601.,Jury rules Masimo smartwatches infringe Apple design patents,https://9to5mac.com/2024/10/25/masimo-apple-design-patents-apple-watch/,14 points,mgh2,4 days ago,8 comments,0
+602.,Google's Shadow Campaigns,https://blogs.microsoft.com/on-the-issues/2024/10/28/googles-shadow-campaigns/,12 points,cmilton,19 hours ago,discuss,0
+603.,Remote Work and Fertility,https://twitter.com/lymanstoneky/status/1849528519937884275,36 points,MrBuddyCasino,5 days ago,7 comments,0
+604.,'Vegetarian' salmon might lead the way to better health for humans and fish,https://phys.org/news/2024-10-vegetarian-salmon-health-humans-fish.html,8 points,PaulHoule,4 days ago,discuss,0
+605.,"Apple put the Magic Mouse's charging port on the bottom, again",https://www.theverge.com/2024/10/28/24276043/apple-new-usb-c-magic-mouse-charging-port-bottom,6 points,redbell,16 hours ago,4 comments,0
+606.,Volkswagen plans to close at least 3 German plants and cut thousands of jobs,https://www.ft.com/content/a7721c5f-164d-4793-b413-1bd8dd45f1a1,8 points,belter,1 day ago,1 comment,0
+607.,Python 3.8 has reached EOL,https://peps.python.org/pep-0569/,9 points,hprotagonist,4 days ago,4 comments,0
+608.,The Surprising Link Between VO₂ Max and Increased Brain Myelination,https://gethealthspan.com/science/article/aerobic-fitness-brain-myelination-neurodegeneration,4 points,dtawfik1,2 days ago,discuss,0
+609.,Losers Average Losers,https://quantian.substack.com/p/losers-average-losers,7 points,paulpauper,3 days ago,1 comment,0
+610.,The Open Source AI Definition – 1.0,https://opensource.org/ai/open-source-ai-definition,10 points,tydunn,1 day ago,1 comment,0
+611.,Facial recognition glasses turn everyday life into creepy privacy nightmare,https://www.foxnews.com/tech/facial-recognition-glasses-turn-everyday-life-creepy-privacy-nightmare,14 points,thunderbong,4 days ago,8 comments,0
+612.,Oracle Cloud Free Tier,https://www.oracle.com/cloud/free/,6 points,thunderbong,3 days ago,2 comments,0
+613.,Using /tmp/ and /var/tmp/ Safely,https://systemd.io/TEMPORARY_DIRECTORIES/,11 points,thunderbong,2 days ago,discuss,0
+614.,"Indian Firms Funneled AMD, Nvidia AI GPUs to Russia",https://www.tomshardware.com/tech-industry/artificial-intelligence/indian-firms-secretly-funneled-amd-nvidia-ai-gpus-to-russia-sanctions-reportedly-skirted-on-hundreds-of-millions-of-dollars-of-hardware,6 points,doener,11 hours ago,3 comments,0
+615.,"For some reason, NASA is treating Orion's heat shield problems as a secret",https://arstechnica.com/space/2024/10/for-some-reason-nasa-is-treating-orions-heat-shield-problems-as-a-secret/,6 points,rbanffy,21 hours ago,1 comment,0
+616.,White House orders Pentagon and Intel agencies to increase use of AI,https://www.washingtonpost.com/technology/2024/10/24/white-house-ai-nation-security-memo/,18 points,Alex_Bond,5 days ago,9 comments,0
+617.,Former Intel CEO says splitting Intel isn't good for the U.S.,https://www.tomshardware.com/tech-industry/former-intel-ceo-says-splitting-intel-isnt-good-for-the-u-s,34 points,sandwichsphinx,3 days ago,28 comments,0
+618.,Ask HN: Do you have trouble recalling what you've contributed at your job?,item?id=41937892,20 points,idontwantthis,5 days ago,19 comments,0
+619.,Chinese plane designed to travel twice as fast as Concorde completes test flight,https://www.scmp.com/news/china/science/article/3284206/chinese-plane-designed-travel-twice-fast-concorde-completes-test-flight,6 points,okasaki,1 day ago,discuss,0
+620.,Google preps 'Jarvis' AI agent that works in Chrome,https://9to5google.com/2024/10/26/google-jarvis-agent-chrome/,53 points,elsewhen,3 days ago,37 comments,0
+621.,More Basic Computer Games,https://archive.org/details/More_BASIC_Computer_Games,3 points,warrenm,17 hours ago,1 comment,0
+622.,China Adds 160 Gigawatts in First 3 Quarters of 2024,https://cleantechnica.com/2024/10/26/china-adds-160-gigawatts-in-first-3-quarters-of-2024/,6 points,tosh,1 day ago,discuss,0
+623.,Industry groups are suing the FTC to stop its click to cancel rule,https://www.theverge.com/2024/10/23/24278020/ftc-click-to-cancel-subscriptions-rule-lawsuit-telecoms-security-advertising-groups,24 points,ohjeez,3 days ago,1 comment,0
+624.,Hiding data/code in Android APK embedded signatures,https://lists.reproducible-builds.org/pipermail/rb-general/2023-January/002825.html,8 points,pabs3,2 days ago,discuss,0
+625.,A TikTok alternative called Loops is coming for the Fediverse,https://www.theverge.com/2024/10/26/24280075/fediverse-tiktok-alternative-loops-pixelfed-mastodon-activitypub-signups-open,9 points,mostcallmeyt,2 days ago,7 comments,0
+626.,Nvidia to ship a billion of RISC-V cores in 2024,https://www.tomshardware.com/pc-components/gpus/nvidia-to-ship-a-billion-of-risc-v-cores-in-2024,30 points,ohong,5 days ago,11 comments,0
+627.,Hospitals adopt error-prone AI transcription tools despite warnings,https://arstechnica.com/ai/2024/10/hospitals-adopt-error-prone-ai-transcription-tools-despite-warnings/,8 points,isaacfrond,22 hours ago,1 comment,0
+628.,Los Angeles Times owner blocks presidential endorsement,https://www.cjr.org/business_of_news/los-angeles-times-editorials-editor-resigns-after-owner-blocks-presidential-endorsement.php,12 points,dragonwriter,4 days ago,1 comment,0
+629.,How Excessive Red Meat Consumption Increases Colorectal Cancer Risk,https://www.nccs.com.sg/news/research/scientists-discover-how-excessive-red-meat-consumption-increases-colorectal-cancer-risk,46 points,gnabgib,4 days ago,55 comments,0
+630.,Point-of-sale providers that don't require proprietary hardware,item?id=41946634,7 points,willmadden,4 days ago,6 comments,0
+631.,The FriendlyELEC CM3588 NVMe NAS Kit,https://taoofmac.com/space/blog/2024/10/26/1900,4 points,rcarmo,3 days ago,discuss,0
+632.,AI-powered transcription tool used in hospitals invents things no one ever said,https://apnews.com/article/ai-artificial-intelligence-health-business-90020cdf5fa16c79ca2e5b6c4c9bbb14,6 points,nabla9,2 days ago,discuss,0
+633.,Will the China cycle come for Airbus and Boeing?,https://www.construction-physics.com/p/will-the-china-cycle-come-for-airbus,54 points,JumpCrisscross,2 days ago,49 comments,0
+634.,"Boeing-made satellite explodes in space after experiencing an ""anomaly""",https://www.cbsnews.com/news/boeing-satellite-intelsat-33e-explodes-space-anamoly/,18 points,arwhatever,4 days ago,1 comment,0
+635.,About the FSF Jitsi Meet Server,https://www.fsf.org/associate/about-the-fsf-jitsi-meet-server,7 points,mtayyar,4 days ago,discuss,0
+636.,Kia will ramp up EV3 output as demand for its affordable electric model surges,https://electrek.co/2024/10/25/kia-ramp-up-ev3-output-demand-low-cost-ev-surges/,10 points,peutetre,4 days ago,10 comments,0
+637.,How to Get Hooked on Opera,https://psyche.co/guides/how-to-get-hooked-on-opera-and-lose-yourself-in-its-magic,6 points,bookofjoe,3 days ago,3 comments,0
+638.,Google's DeepMind is building an AI to keep us from hating each other,https://arstechnica.com/ai/2024/10/googles-deepmind-is-building-an-ai-to-keep-us-from-hating-each-other/,11 points,Tomte,5 days ago,1 comment,0
+639.,More evidence that limiting social media won't boost your well-being,https://www.newscientist.com/article/2452232-more-evidence-that-limiting-social-media-wont-boost-your-well-being/,5 points,janandonly,23 hours ago,discuss,0
+640.,Astronauts return from nearly eight months on ISS after Starliner problems,https://www.theguardian.com/science/2024/oct/25/spacex-astronauts-return-to-earth-after-delay-due-to-boeing-capsule-snags,9 points,thunderbong,4 days ago,discuss,0
+641.,"Smartphone buyers meh on AI, care more about battery life",https://www.cnet.com/tech/mobile/with-apple-intelligence-on-the-horizon-a-quarter-of-smartphone-owners-are-unimpressed-by-ai/,323 points,retskrad,4 days ago,330 comments,0
+642.,Bootloader Unlock Wall of Shame,https://github.com/melontini/bootloader-unlock-wall-of-shame,27 points,aarroyoc,1 day ago,15 comments,0
+643.,The $9B James Webb Space Telescope Runs JavaScript,https://www.theverge.com/2022/8/18/23206110/james-webb-space-telescope-javascript-jwst-instrument-control,19 points,jakey_bakey,5 days ago,12 comments,0
+644.,Annoyed Redditors tanking Google Search results shows perils of AI scrapers,https://arstechnica.com/gadgets/2024/10/fake-restaurant-tips-on-reddit-a-reminder-of-google-ai-overviews-inherent-flaws/,19 points,akyuu,2 days ago,5 comments,0
+645.,Throw more AI at your problems,https://frontierai.substack.com/p/throw-more-ai-at-your-problems,68 points,vsreekanti,5 days ago,55 comments,0
+646.,Creating a 3D Hand Controller Using a Webcam with MediaPipe and Three.js,https://tympanus.net/codrops/2024/10/24/creating-a-3d-hand-controller-using-a-webcam-with-mediapipe-and-three-js/,6 points,beardyw,3 days ago,discuss,0
+647.,Microsoft Excel's bloopers reel: 40 years of spreadsheet errors,https://www.theguardian.com/technology/2024/oct/28/microsoft-excels-bloopers-reel-40-years-of-spreadsheet-errors,5 points,sp8,19 hours ago,discuss,0
+648.,Memorandum on Advancing the United States' Leadership in Artificial Intelligence,https://www.whitehouse.gov/briefing-room/presidential-actions/2024/10/24/memorandum-on-advancing-the-united-states-leadership-in-artificial-intelligence-harnessing-artificial-intelligence-to-fulfill-national-security-objectives-and-fostering-the-safety-security/,15 points,Nydhal,5 days ago,1 comment,0
+649.,Inserting a 0 bit in the middle of a value,https://fgiesen.wordpress.com/2024/10/24/inserting-a-0-bit-in-the-middle-of-a-value/,38 points,ingve,5 days ago,16 comments,0
+650.,Experts say a proposed revamp to the recycling symbol is still deceptive,https://grist.org/accountability/proposed-new-recycling-label-how2recycle-greenblue-california/,19 points,everybodyknows,1 day ago,6 comments,0
+651.,Ask HN: Why does Chrome Android not support extensions/plugins?,item?id=41943090,11 points,ggm,5 days ago,14 comments,0
+652.,No One Knows How Big Pumpkins Can Get,https://www.theatlantic.com/health/archive/2024/10/giant-pumpkin-world-record/680337/,9 points,paulpauper,4 days ago,1 comment,0
+653.,"What I learned from 3 years of running Windows 11 on ""unsupported"" PCs",https://arstechnica.com/gadgets/2024/10/what-i-learned-from-3-years-of-running-windows-11-on-unsupported-pcs/,13 points,isaacfrond,4 days ago,1 comment,0
+654.,"Unravelling the Golden Interview Question: ""Tell Me About Yourself"" (2023)",https://medium.com/@jholyhead/unravelling-the-golden-interview-question-tell-me-a-little-about-yourself-a2e88addb79a,5 points,mooreds,3 days ago,discuss,0
+655.,Bluesky Is Not Decentralized,https://beige.party/@possibledog/113367977656537478,215 points,pabs3,4 days ago,192 comments,0
+656.,Biden administration announces $3B for rural electric co-ops,https://thehill.com/policy/energy-environment/4954170-biden-administration-funding-rural-electric/,8 points,thunderbong,2 days ago,discuss,0
+657.,How a Mumbai Drugmaker Is Helping Putin Get Nvidia AI Chips,https://www.bloomberg.com/news/features/2024-10-27/russia-is-getting-nvidia-ai-chips-from-an-indian-pharma-company,13 points,LopRabbit,2 days ago,discuss,0
+658.,China's Secretive New Space Station,https://jalopnik.com/step-inside-china-s-secretive-new-space-station-1851683639,4 points,makaimc,10 hours ago,discuss,0
+659.,Wafer Scale – Trilogy Systems: Part 2,https://thechipletter.substack.com/p/wafer-scale-trilogy-systems-part-359,15 points,klelatti,2 days ago,1 comment,0
+660.,Radio station in Poland fired journalists and replaced them with AI presenters,https://www.euronews.com/next/2024/10/24/radio-station-in-poland-fired-its-journalists-and-replaced-them-with-ai-presenters,5 points,_____k,4 days ago,1 comment,0
+661.,Notes on Anthropic's Computer Use Ability,https://composio.dev/blog/claude-computer-use/,82 points,todsacerdoti,4 days ago,103 comments,0
+662.,"My 14-year-old Instagram account, ""javier,"" was stolen",https://twitter.com/javier/status/1850950335625388186,7 points,instakill,1 day ago,discuss,0
+663.,Higher triglyceride glucose index linked to increased risk of cognitive decline,https://www.psypost.org/higher-triglyceride-glucose-index-linked-to-75-higher-risk-of-cognitive-decline/,8 points,XzetaU8,4 days ago,discuss,0
+664.,Former eBay CEO Meg Whitman Wants US Tech to Take on China in Africa,https://www.bloomberg.com/news/articles/2024-10-28/former-ebay-ceo-meg-whitman-wants-us-tech-to-take-on-china-in-africa,4 points,elsewhen,1 day ago,discuss,0
+665.,Happy Ending Problem,https://en.wikipedia.org/wiki/Happy_ending_problem,6 points,belter,4 days ago,discuss,0
+666.,There are only two asset classes: ownership and debt,https://www.ft.com/content/15998397-48dc-4afd-acbb-19ff08416e5b,55 points,hhs,3 days ago,39 comments,0
+667.,Biggest wind turbine – 26 MW – rolls off production line in China,https://reneweconomy.com.au/worlds-biggest-wind-turbine-26-mw-rolls-off-production-line-in-china/,5 points,Capstanlqc,1 day ago,discuss,0
+668.,The superfans using Notion as a second brain,https://sfstandard.com/2024/10/25/google-docs-notion-nerds-productivity-software/,10 points,disillusioned1,4 days ago,discuss,0
+669.,Codeberg Reconsidering OSI License Approval in Terms of Use,https://codeberg.org/Codeberg/Community/issues/1654,52 points,pabs3,3 days ago,15 comments,0
+670.,How Microsoft Edge Is Replacing React with Web Components,https://thenewstack.io/how-microsoft-edge-is-replacing-react-with-web-components/,10 points,marban,5 days ago,1 comment,0
+671.,Character Amnesia in China,https://globalchinapulse.net/character-amnesia-in-china/,11 points,gcoleman,4 days ago,discuss,0
+672.,The Online-Betting Boom Is Ruining Sports–and Lives,https://macleans.ca/society/the-online-betting-boom-is-ruining-sports-and-lives/,8 points,Geekette,4 days ago,discuss,0
+673.,DragonRuby Game Toolkit hits v6.0,https://dragonruby.itch.io/dragonruby-gtk/devlog/809843/dragonruby-hits-v60,44 points,amirrajan,3 days ago,2 comments,0
+674.,Looking at California's $20 minimum wage impact 6 months later,https://www.nbcbayarea.com/investigations/california-minimum-wage-impact/3686092/,18 points,alex_young,5 days ago,27 comments,0
+675.,Redditors Trying to Poison Google's AI to Keep Tourists Out of Good Restaurants,https://gizmodo.com/redditors-are-trying-to-poison-googles-ai-to-keep-tourists-out-of-the-good-restaurants-2000516156,41 points,rntn,4 days ago,24 comments,0
+676.,Amazon Says It Has a First Amendment Right to Union Bust,https://www.404media.co/amazon-says-it-has-a-first-amendment-right-to-union-bust/,72 points,belter,4 days ago,41 comments,0
+677.,$600 Buzz Lightyear Robot Packs 3k Parts and Advanced Micro-Servos,https://techcrunch.com/video/this-600-buzz-lightyear-toy-is-the-most-realistic-yet/,10 points,ax0ar,5 days ago,1 comment,0
+678.,Firefox 132,https://www.mozilla.org/en-US/firefox/132.0/releasenotes/,8 points,N19PEDL2,18 hours ago,discuss,0
+679.,Ask HN: Are my HPC professors right? Is Python worthless compared to C?,item?id=41950211,16 points,megaloblasto,4 days ago,30 comments,0
+680.,Life Before the Invention of AutoCAD: Photos from 1950 to 1980,https://rarehistoricalphotos.com/life-before-autocad-1950-1980/,13 points,thunderbong,4 days ago,3 comments,0
+681.,Bay Area cops are getting a new Siri-type tool for fighting sideshows,https://www.sfgate.com/tech/article/bay-area-cops-get-sideshow-tool-flock-safety-19858497.php,25 points,c420,5 days ago,53 comments,0
+682.,Hyphen War,https://en.wikipedia.org/wiki/Hyphen_War,5 points,mkotowski,4 days ago,1 comment,0
+683.,"My Teenage Son Does Not Know How to Mail a Letter, and I Blame Technology (2023)",https://readwrite.com/my-teenage-son-does-not-know-how-to-mail-a-letter/,8 points,Tomte,3 days ago,7 comments,0
+684.,Minecraft is ending all virtual reality support next spring,https://www.engadget.com/gaming/minecraft-is-ending-all-virtual-reality-support-next-spring-212953347.html,8 points,bookofjoe,4 days ago,discuss,0
+685.,A new release of Raspberry Pi OS,https://www.raspberrypi.com/news/a-new-release-of-raspberry-pi-os/,22 points,boristsr,1 day ago,9 comments,0
+686.,ADHD and managing your professional reputation,https://www.optimaloutliers.com/p/adhd-and-managing-your-reputation,132 points,vaishnav92,3 days ago,127 comments,0
+687.,The Billion-Dollar World of Parasite SEO: How to Cash In,https://larslofgren.com/parasite-seo/,13 points,deadcoder0904,4 days ago,4 comments,0
+688.,Florida Eases Licensing Requirements for Foreign Trained Doctors,https://www.murthy.com/2024/10/17/florida-eases-licensing-requirements-for-foreign-trained-doctors/,73 points,kamaraju,5 days ago,117 comments,0
+689.,A look inside the datacenter behind Elon Musk's Grok AI,https://www.servethehome.com/inside-100000-nvidia-gpu-xai-colossus-cluster-supermicro-helped-build-for-elon-musk/,4 points,geerlingguy,1 day ago,discuss,0
+690.,Microsoft boss gets 63% pay rise despite asking for reduction,https://www.bbc.com/news/articles/cwy1lkp71n2o,5 points,RickJWagner,4 days ago,1 comment,0
+691.,Use Prolog to write psycho-philosophical case studies,item?id=41937527,8 points,vaguetruth,5 days ago,7 comments,0
+692.,Circular Runways (2017),https://www.bbc.com/news/magazine-39643292,4 points,belter,3 days ago,discuss,0
+693.,Shaken Baby Syndrome Has Been Discredited. Why Is Roberson Still on Death Row?,https://www.scientificamerican.com/article/shaken-baby-syndrome-has-been-discredited-why-is-robert-roberson-still-on/,49 points,rossant,3 days ago,17 comments,0
+694.,Texas Mom Arrested and Jailed for Making Her Son Walk a Half-Mile Home,https://reason.com/2024/10/23/this-mom-was-arrested-and-jailed-for-making-her-son-walk-a-half-mile-home/,14 points,speckx,1 day ago,6 comments,0
+695.,Theory of Everything Could Work: Wolfram's Hypergraphs,https://www.youtube.com/watch?v=-yzdjziS-bo,10 points,belter,5 days ago,discuss,0
+696.,NASA's Crew-8 mission members return to Earth on SpaceX capsule,https://www.npr.org/2024/10/25/nx-s1-5162153/nasa-spacex-crew-8-splashdown,7 points,defrost,5 days ago,4 comments,0
+697.,"Fcurl – fopen, fread, fwrite style functions for URL operations using libcurl",https://github.com/curl/fcurl,6 points,jcbhmr,4 days ago,discuss,0
+698.,Fedora 41 Releases Today with Many Shiny New Features,https://www.phoronix.com/news/Fedora-41-Download,8 points,mikece,19 hours ago,discuss,0
+699.,Humane drops AI Pin price by $200,https://techcrunch.com/2024/10/23/beleaguered-startup-humane-drops-ai-pin-price-by-200/,18 points,bookofjoe,5 days ago,11 comments,0
+700.,Delta sues CrowdStrike over software update that prompted mass flight disruption,https://www.cnn.com/2024/10/25/business/delta-sues-crowdstrike/index.html,6 points,rawgabbit,2 days ago,1 comment,0
+701.,CHP seizes cars after Bay Bridge sideshow with Flock Security data,https://www.sfchronicle.com/crime/article/bay-bridge-sideshow-car-seizure-19862986.php,12 points,philip1209,4 days ago,22 comments,0
+702.,DNA stores data in bits after epigenetic upgrade,https://www.nature.com/articles/d41586-024-03443-w,11 points,pseudolus,5 days ago,2 comments,0
+703.,German flying taxi firm Lilium Files for Insolvency,https://www.sec.gov/Archives/edgar/data/0001855756/000110465924111048/tm2426768d1_6k.htm,13 points,ur-whale,5 days ago,1 comment,0
+704.,"EU to Apple: ""Let Users Choose Their Software""; Apple: ""Nah""",https://www.eff.org/deeplinks/2024/10/eu-apple-let-users-choose-their-software-apple-nah,16 points,jrepinc,1 day ago,1 comment,0
+705.,"When the Nazis Seized Power, This Jewish Actor Took on the Role of His Life",https://www.smithsonianmag.com/history/when-nazis-seized-power-this-jewish-actor-took-on-role-life-180985228/,6 points,samclemens,4 days ago,3 comments,0
+706.,Building a Tiny Office Pod Under My Stairs [video],https://www.youtube.com/watch?v=b0npGI9WCzs,6 points,skadamat,4 days ago,discuss,0
+707.,The open secret of open washing – why companies pretend to be open source,https://www.theregister.com/2024/10/25/opinion_open_washing/,7 points,penda,4 days ago,discuss,0
+708.,"Change Healthcare hack affects over 100M, largest-ever US healthcare data breach",https://techcrunch.com/2024/10/24/unitedhealth-change-healthcare-hacked-millions-health-records-ransomware/,8 points,croes,5 days ago,discuss,0
+709.,"James Cameron on AI, robotics, and ethics [video]",https://www.youtube.com/watch?v=e6Uq_5JemrI,8 points,tkgally,5 days ago,1 comment,0
+710.,US labor board wrongly ordered Tesla's Musk to delete anti-union tweet : court,https://www.msn.com/en-us/money/news/us-labor-board-wrongly-ordered-tesla-s-musk-to-delete-anti-union-tweet-court-rules/ar-AA1t38Q2,6 points,ivewonyoung,1 day ago,discuss,0
+711.,The Electoral College was nearly abolished in 1970 (2020),https://www.history.com/news/electoral-college-nearly-abolished-thurmond,37 points,JumpCrisscross,3 days ago,51 comments,0
+712.,The Tau Manifesto,https://tauday.com/tau-manifesto,4 points,dsego,1 day ago,1 comment,0
+713.,Russians Helped Houthis Target International Shipping,https://www.twz.com/news-features/russians-helped-houthis-target-international-shipping-report,32 points,peutetre,4 days ago,8 comments,0
+714.,Microsoft creates fake Azure tenants to pull phishers into honeypots,https://www.bleepingcomputer.com/news/security/microsoft-creates-fake-azure-tenants-to-pull-phishers-into-honeypots/,6 points,mooreds,4 days ago,discuss,0
+715.,A16 Technology,https://www.tsmc.com/english/dedicatedFoundry/technology/logic/l_A16,10 points,sandwichsphinx,3 days ago,discuss,0
+716.,"Bruce Schneier on security, society and why we need public AI models",https://www.zdnet.com/article/technologist-bruce-schneier-on-security-society-and-why-we-need-public-ai-models/,9 points,CrankyBear,5 days ago,discuss,0
+717.,More farms are turning to automation amid labor shortages,https://grist.org/food-and-agriculture/more-farms-are-turning-to-automation-amid-labor-shortages/,32 points,rntn,1 day ago,49 comments,0
+718.,"Mullvad browser: the privacy of Tor, with the perks of a VPN (2023)",https://www.techradar.com/news/mullvad-browser-the-privacy-of-tor-with-the-perks-of-a-vpn,6 points,dotcoma,4 days ago,discuss,0
+719.,Supply Chain Attacks Targeting LLM Application Developers: The Hidden Dangers Of,https://socket.dev/blog/supply-chain-attacks-targeting-llm-application-developers,12 points,feross,5 days ago,2 comments,0
+720.,Guide to SSH Reverse Tunneling,https://pinggy.io/blog/ssh_reverse_tunnelling/,17 points,pumba_noob,4 days ago,5 comments,0
+721.,You May Be Paying a Higher Tax Rate Than a Billionaire,https://www.propublica.org/article/you-may-be-paying-a-higher-tax-rate-than-a-billionaire,16 points,rurp,3 days ago,10 comments,0
+722.,SQLite Rsync: Database Remote-Copy Tool for SQLite,https://sqlite.org/rsync.html,75 points,Peter5,2 days ago,11 comments,0
+723.,Portable hydrogen cartridges by Toyota can supply energy to cars and appliances,https://www.designboom.com/technology/portable-hydrogen-cartridges-toyota-energy-cars-outdoor-appliances-10-16-2024/,11 points,ashitlerferad,5 days ago,6 comments,0
+724.,"Ask HN: Namecheap charged my card, didn't deliver, then upped the price",item?id=41949455,91 points,paige_d,4 days ago,35 comments,0
+725.,How to Ruin an Engineering Organization,https://avivbenyosef.com/how-to-ruin-an-engineering-organization/,13 points,mooreds,5 days ago,1 comment,0
+726.,Stunning fossil trapped in amber reveals previously unknown species,https://www.cnn.com/2024/10/24/science/firefly-fossil-mesozoic-bioluminescence-evolution/index.html,29 points,peutetre,3 days ago,1 comment,0
+727.,A second person in Missouri caught bird flu without exposure to infected animals,https://www.cnn.com/2024/10/24/health/bird-flu-missouri-blood-tests/index.html,9 points,ctoth,1 day ago,discuss,0
+728.,Stitches with electric charge found to speed up wound healing in rats,https://medicalxpress.com/news/2024-10-internally-electric-wound-rats.html,4 points,PaulHoule,4 days ago,discuss,0
+729.,Lazarus v4.0rc1,https://forum.lazarus.freepascal.org/index.php?topic=69059.0,8 points,antranigv,2 days ago,discuss,0
+730.,"Fitness app Strava gives away location of Biden, Trump and other leaders",https://apnews.com/article/biden-trump-macron-bodyguards-security-strava-0a48afca09c7aa74d703e72833dcaf72,14 points,c420,1 day ago,discuss,0
+731.,"So what is ""so '90s"" in Web design? (2004)",https://www.webmasterworld.com/graphics_multimedia/1291.htm,5 points,realjame,4 days ago,discuss,0
+732.,Rapamycin and Anti-Aging: What to Know,https://www.nytimes.com/2024/09/24/well/live/rapamycin-aging-longevity-benefits-risks.html,6 points,bookofjoe,4 days ago,2 comments,0
+733.,Blender Conference 2024: a render engine for curved space-time [video],https://www.youtube.com/watch?v=wF8LBqV6Ayw,6 points,clipjokingly,4 days ago,1 comment,0
+734.,Law Enforcement Undermines Tor,https://marx.wtf/2024/10/10/law-enforcement-undermines-tor/,101 points,pantalaimon,5 days ago,78 comments,0
+735.,You only compete with one thing,https://world.hey.com/jason/you-only-compete-with-one-thing-48a20d93,7 points,blueridge,4 days ago,1 comment,0
+736.,UnitedHealth Ransomware Attack Exposed 100M People,https://www.pcmag.com/news/unitedhealth-ransomware-attack-exposed-100-million-people,5 points,mostcallmeyt,4 days ago,1 comment,0
+737.,Letter from astronomers to FCC on SpaceX Starlink [pdf],https://pirg.org/edfund/wp-content/uploads/2024/10/PIRG-Satellite-Letter-to-FCC-from-100-researchers.pdf,5 points,xqcgrek2,4 days ago,1 comment,0
+738.,History Foundation Disappointed DMCA Decision Won't Grant Researchers Exemptions,https://www.ign.com/articles/video-game-history-foundation-disappointed-in-dmca-decision-that-wont-grant-exemptions-for-researchers,6 points,josephcsible,4 days ago,discuss,0
+739.,The Iterative-Hypothesis customer development method,https://longform.asmartbear.com/customer-development/,6 points,handfuloflight,5 days ago,discuss,0
+740.,Linus Torvalds reckons AI is '90% marketing and 10% reality',https://www.tomshardware.com/tech-industry/artificial-intelligence/linus-torvalds-reckons-ai-is-90-percent-marketing-and-10-percent-reality,19 points,sunkcostisalie,21 hours ago,2 comments,0
+741.,"Motel 6 Is Sold to Oyo, an Indian Hotel Company Expanding in the U.S.",https://www.nytimes.com/2024/09/20/business/motel-6-oyo-blackstone.html,4 points,ssahoo,12 hours ago,1 comment,0
